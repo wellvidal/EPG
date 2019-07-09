@@ -32,10 +32,6 @@
     <display-name lang="pt">Canal Brasil</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Rede Boa Vontade">
-    <display-name lang="pt">Rede Boa Vontade</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
   <channel id="Boomerang">
     <display-name lang="pt">Boomerang</display-name>
     <url>http://www.clarotv.com.br</url>
@@ -76,8 +72,12 @@
     <display-name lang="pt">DISCOVERY THEATER HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Disney Channel">
-    <display-name lang="pt">Disney Channel</display-name>
+  <channel id="Disney">
+    <display-name lang="pt">Disney</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
   <programme start="20190709004500 -0300" stop="20190709014000 -0300" channel="AXN">
@@ -6434,174 +6434,13 @@
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20190709064400 -0300" stop="20190709070800 -0300" channel="Discovery Channel">
+  <programme start="20190709064400 -0300" stop="20190710003200 -0300" channel="Discovery Channel">
     <title lang="pt">Em Busca de Relíquias</title>
     <desc lang="pt">Um cliente quer ajuda para limpar a bagunçada garagem e pôr a casa à venda. O tempo é crucial, mas a garagem possui tantos itens que talvez leve mais tempo do que pensava(n)</desc>
     <date>2015</date>
     <episode-num system="onscreen">S4 E9</episode-num>
     <rating system="BR">
       <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190709070800 -0300" stop="20190709073200 -0300" channel="Discovery Channel">
-    <title lang="pt">Em Busca de Relíquias</title>
-    <desc lang="pt">Os Garage Brothers têm algo especial na manga para esta garagem cheia de antiguidades. Equipamentos agrícolas de 100 anos e um órgão estilo parlor do século 19 são músicas para os ouvidos de Kraig(n)</desc>
-    <date>2015</date>
-    <episode-num system="onscreen">S5 E7</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190709073200 -0300" stop="20190709082000 -0300" channel="Discovery Channel">
-    <title lang="pt">Destiladores: Ônus da Prova</title>
-    <desc lang="pt">Josh recorda suas origens nas corridas de stockcar para inventar uma nova forma de fabricar aguardente. O experiente JB socorre Mark e Digger para evitar que percam um lote. Mark Rogers fica frente a frente com a polícia(n)</desc>
-    <credits>
-      <actor>Jeremy Schwartz</actor>
-      <actor>Josh Owens</actor>
-      <actor>Tim Smith</actor>
-      <actor>Red Dog</actor>
-      <actor>Eric 'Digger' Manes</actor>
-      <actor>Tim Smith</actor>
-    </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709082000 -0300" stop="20190709084400 -0300" channel="Discovery Channel">
-    <title lang="pt">Construções Remotas: Fazenda Big Sky: A Construção</title>
-    <desc lang="pt">Jon e Etta começam a construir uma casa e um rancho para bisões em uma área isolada de Montana(n)</desc>
-    <credits>
-      <director>David Stephen</director>
-    </credits>
-    <date>2016</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190709084400 -0300" stop="20190709090800 -0300" channel="Discovery Channel">
-    <title lang="pt">Construções Remotas: Fazenda Big Sky: Corrida contra o Inverno</title>
-    <desc lang="pt">Jon e Etta começam a construir uma casa e um rancho para bisões em uma área isolada de Montana(n)</desc>
-    <credits>
-      <director>David Stephen</director>
-    </credits>
-    <date>2016</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190709090800 -0300" stop="20190709095600 -0300" channel="Discovery Channel">
-    <title lang="pt">Construções Remotas: A Cabana Sem Volta</title>
-    <desc lang="pt">Uma família de Idaho quer construir uma cabana maior ao longo do rio Salmon, onde o fogo destruiu uma de suas propriedades(n)</desc>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190709095600 -0300" stop="20190709102000 -0300" channel="Discovery Channel">
-    <title lang="pt">Em Busca de Relíquias: Vacas e Quinquilharias</title>
-    <desc lang="pt">Os Garage Brothers se esforçam para garimpar algum objeto de valor em um estábulo abarrotado. Uma bandeja de estanho, um aparelho de som dos anos 60 e uma boneca turca são alguns dos itens estranhos que eles encontram(n)</desc>
-    <date>2015</date>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190709102000 -0300" stop="20190709104400 -0300" channel="Discovery Channel">
-    <title lang="pt">Em Busca de Relíquias: As Aparências Enganam</title>
-    <desc lang="pt">Um piano, um pula-pula e uma máquina de fliperama antiga parecem ser lucrativos para Kraig Bantle e os Garage Brothers. Mas eles têm uma decepção quando Mike, o avaliador da equipe, revela o verdadeiro valor dos objetos(n)</desc>
-    <date>2015</date>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190709104400 -0300" stop="20190709113200 -0300" channel="Discovery Channel">
-    <title lang="pt">Mestres das Armas: Besta</title>
-    <desc lang="pt">Antes das armas de fogo, as bestas dominavam os campos de batalha de longo alcance. Neste episódio, especialistas disputam um prêmio de 10 mil dólares construindo uma besta feita de madeira rústica e aço(n)</desc>
-    <credits>
-      <actor>Zeke Stout</actor>
-      <actor>Ashley Hlebinsky</actor>
-      <actor>Trenton Tye</actor>
-      <actor>Dustin Rhodes</actor>
-    </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709113200 -0300" stop="20190709122000 -0300" channel="Discovery Channel">
-    <title lang="pt">Isolados no Alasca: Solidão</title>
-    <desc lang="pt">Lutando contra a solidão, Bob Harte recebe uma visita em sua cabana. Os Seldens aproveitam a abundância de caça, enquanto Ray Lewis começa os preparativos para garantir carne para a família(n)</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709122000 -0300" stop="20190709131000 -0300" channel="Discovery Channel">
-    <title lang="pt">Isolados no Alasca: Ep. 5</title>
-    <desc lang="pt">As filhas de Heimo saem para caçar caribus, mas um urso atrapalha seus planos. Tyler e Ashley trabalham para garantir o suprimento de salmão. Bo e Nancy encaram uma triste verdade sobre seu futuro(n)</desc>
-    <date>2016</date>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709131000 -0300" stop="20190709140000 -0300" channel="Discovery Channel">
-    <title lang="pt">Isolados no Alasca: Ep. 6</title>
-    <desc lang="pt">Os Seldens viajam durante quatro dias para verificar o circuito de armadilhas. Heimo disputa um alce com um bando de lobos. A cabana dos Lewis está pronta, mas as meninas têm muito a aprender(n)</desc>
-    <date>2016</date>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709140000 -0300" stop="20190709144800 -0300" channel="Discovery Channel">
-    <title lang="pt">Desafio em Dose Dupla: Sem Ar</title>
-    <desc lang="pt">Dois especialistas em sobrevivência, com diferentes treinamentos e formações, serão deixados em locais remotos e perigosos do mundo(n)</desc>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709144800 -0300" stop="20190709153600 -0300" channel="Discovery Channel">
-    <title lang="pt">Desafio em Dose Dupla: Brasil: Montanha Abaixo</title>
-    <desc lang="pt">Leo Rocha e Coronel Leite, dois profundos conhecedores das técnicas de sobrevivência na selva, enfrentam o desafio de sobreviver na gelada Patagônia Argentina(n)</desc>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709153600 -0300" stop="20190709162400 -0300" channel="Discovery Channel">
-    <title lang="pt">Desafio em Dose Dupla: Separados</title>
-    <desc lang="pt">Os especialistas em sobrevivência Cody Lundin e Dave Canterbury enfrentam um pesadelo: eles estão perdidos, e longe um do outro, no Arizona(n)</desc>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709162400 -0300" stop="20190709180000 -0300" channel="Discovery Channel">
-    <title lang="pt">Quilos Mortais: James K</title>
-    <desc lang="pt">Pesando 358 quilos, James vive acamado e mal consegue mover as pernas. Com um prognóstico de poucos meses de vida, ele se submete a uma cirurgia bariátrica que pode salvá-lo(n)</desc>
-    <episode-num system="onscreen">S5 E7</episode-num>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190709180000 -0300" stop="20190709182500 -0300" channel="Discovery Channel">
-    <title lang="pt">Aeroporto: Área Restrita: A União faz a Força 2ª Temp.</title>
-    <desc lang="pt">Agentes da Imigração e aula práticado InterCops, com participação de vários policiais do mundo, se deparam com suspeitos de terrorismo e trabalho escravo(n)</desc>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709182500 -0300" stop="20190710003200 -0300" channel="Discovery Channel">
-    <title lang="pt">Aeroporto: Área Restrita: Pátria Amada</title>
-    <desc lang="pt">Polícia Federal e Receita Federal se unem para prender um traficante de drogas saindo do país. Na alfândega, agentes aduaneiros se deparam com um novo esquema para entrada ilegal de produtos e joias(n)</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <rating system="BR">
-      <value>11+</value>
     </rating>
   </programme>
   <programme start="20190709000200 -0300" stop="20190709002400 -0300" channel="Discovery Kids">
@@ -7969,6 +7808,569 @@
     <desc lang="pt">Jeff Corwin se aventura pelo México, em busca das cobras mais venenosas do país, para extrair seu veneno(n)</desc>
     <rating system="BR">
       <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190709000000 -0300" stop="20190709003000 -0300" channel="Disney">
+    <title lang="pt">A Casa da Raven</title>
+    <desc lang="pt">Raven e Chelsea são mães solteiras criando suas duas famílias em uma casa caótica, mas divertida, cheia de amigos(n)</desc>
+    <credits>
+      <actor>Raven-Symoné</actor>
+      <actor>Issac Ryan Brown</actor>
+      <actor>Navia Ziraili Robinson</actor>
+      <actor>Anneliese van der Pol</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709003000 -0300" stop="20190709023000 -0300" channel="Disney">
+    <title lang="pt">Stuart Little 2</title>
+    <desc lang="pt">Stuart Little salva um passarinho fêmea das garras de um falcão e a leva para morar com sua família. Mas quando ela some repentinamente, junto com uma antiguidade da família, Stuart sai para encontrá-la(n)</desc>
+    <credits>
+      <director>Rob Minkoff</director>
+      <actor>Geena Davis</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Jonathan Lipnicki</actor>
+      <actor>Anna Hoelck</actor>
+      <actor>Ashley Hoelck</actor>
+      <actor>Marc John Jefferies</actor>
+      <actor>Jim Doughan</actor>
+      <actor>Brad Garrett</actor>
+      <actor>Michael J. Fox (voz)</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190709023000 -0300" stop="20190709030000 -0300" channel="Disney">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística(n)</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709030000 -0300" stop="20190709033000 -0300" channel="Disney">
+    <title lang="pt">Operação Big Hero - A Série</title>
+    <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6(n)</desc>
+    <credits>
+      <actor>Vozes de Scott Adsit</actor>
+      <actor>Ryan Potter</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709033000 -0300" stop="20190709034500 -0300" channel="Disney">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo(n)</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709034500 -0300" stop="20190709040000 -0300" channel="Disney">
+    <title lang="pt">Mickey Mouse</title>
+    <desc lang="pt">Os curtas Mickey Mouse são produzidos com base na animação 2D e contam com um visual inspirado nas raízes do ratinho e influências do estilo de Mickey nos anos 30, tudo isso sem deixar de ter um toque contemporâneo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709040000 -0300" stop="20190709043000 -0300" channel="Disney">
+    <title lang="pt">Ducktales - Os Caçadores De Aventuras</title>
+    <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia(n)</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <director>Dana Terrace</director>
+      <actor>Vozes de David Tennant</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Ben Schwartz</actor>
+      <actor>Tony Anselmo</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Beck Benett</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709043000 -0300" stop="20190709050000 -0300" channel="Disney">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <desc lang="pt">Rapunzel enfrenta novos desafios para se adequar à realeza e ao novo relacionamento com José e os amigos(n)</desc>
+    <credits>
+      <director>Tom Caulfield</director>
+      <director>Stephen Sandoval</director>
+      <actor>Vozes de Mandy Moore</actor>
+      <actor>Zachary Levi</actor>
+      <actor>Donna Murphy</actor>
+      <actor>Ron Perlman</actor>
+      <actor>M.C. Gainey</actor>
+      <actor>Jeffrey Tambor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709050000 -0300" stop="20190709053000 -0300" channel="Disney">
+    <title lang="pt">Hotel Transylvania - A Série</title>
+    <desc lang="pt">Mavis quer demonstrar ao pai o seu talento na gestão do Hotel e, ao tentar colocar as suas ideias em prática, embarca com os amigos em novas aventuras(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709053000 -0300" stop="20190709060000 -0300" channel="Disney">
+    <title lang="pt">Elena de Avalor</title>
+    <desc lang="pt">Princesa Elena é uma adolescente corajosa e aventureira que salvou seu reino de uma bruxa malvada e precisa aprender a governar, até que seja madura o suficiente para se tornar rainha(n)</desc>
+    <credits>
+      <actor>Aimee Carrero</actor>
+      <actor>Jenna Ortega</actor>
+      <actor>Christian Lanz</actor>
+      <actor>Emiliano Díez</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Julia Vera</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709060000 -0300" stop="20190709063000 -0300" channel="Disney">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística(n)</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Alex Hirsch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Keith Ferguson</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709063000 -0300" stop="20190709070000 -0300" channel="Disney">
+    <title lang="pt">Ducktales - Os Caçadores De Aventuras</title>
+    <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia(n)</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <director>Dana Terrace</director>
+      <actor>Vozes de David Tennant</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Ben Schwartz</actor>
+      <actor>Tony Anselmo</actor>
+      <actor>Kate Micucci</actor>
+      <actor>Beck Benett</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709070000 -0300" stop="20190709073000 -0300" channel="Disney">
+    <title lang="pt">Princesinha Sofia: As Ilhas Místicas</title>
+    <desc lang="pt">Quando Amber descobre o trabalho de Sofia como guardiã de histórias, ela a acompanha em uma missão nas Ilhas Místicas, onde ambas devem recuperar um antigo Cristal de Terra(n)</desc>
+    <credits>
+      <director>Jamie Mitchell</director>
+      <director>Mircea Mantta</director>
+      <actor>Vozes de Ariel Winter</actor>
+      <actor>Darcy Rose Byrnes</actor>
+      <actor>Megan Hilty</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709073000 -0300" stop="20190709074500 -0300" channel="Disney">
+    <title lang="pt">Doutora Brinquedos</title>
+    <desc lang="pt">Doutora Brinquedos conta a história de uma garotinha de seis anos que consegue falar com seus bichinhos de pelúcia e outros bonecos, dos quais ela cuida em sua clínica para brinquedos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709074500 -0300" stop="20190709080000 -0300" channel="Disney">
+    <title lang="pt">Vampirina 2ª Temp</title>
+    <desc lang="pt">Vampirina conta a história de uma jovem vampira que enfrenta as alegrias e as dificuldades de ser a nova garota na cidade quando sua família se muda da Transilvânia para a Pensilvânia(n)</desc>
+    <credits>
+      <actor>Vozes de James Van Der Beek</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Isabella Crovetti</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Benji Risley</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709080000 -0300" stop="20190709083000 -0300" channel="Disney">
+    <title lang="pt">Mickey - Aventuras Sobre Rodas</title>
+    <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo(n)</desc>
+    <credits>
+      <actor>Vozes de Bill Farmer</actor>
+      <actor>Bret Iwan</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Daniel Ross</actor>
+      <actor>Russi Taylor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709083000 -0300" stop="20190709090000 -0300" channel="Disney">
+    <title lang="pt">A Guarda do Leão</title>
+    <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino(n)</desc>
+    <credits>
+      <director>Howy Parkins</director>
+      <director>Tom De Rosier</director>
+      <actor>Vozes de Max Charles</actor>
+      <actor>Joshua Rush</actor>
+      <actor>Diamond White</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Kevin Schon</actor>
+      <actor>Rob Lowe</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709090000 -0300" stop="20190709091500 -0300" channel="Disney">
+    <title lang="pt">Vá Embora, Unicórnio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709091500 -0300" stop="20190709093000 -0300" channel="Disney">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo(n)</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709093000 -0300" stop="20190709113000 -0300" channel="Disney">
+    <title lang="pt">Frozen: Uma Aventura Congelante</title>
+    <desc lang="pt">A otimista e destemida princesa Anna precisa salvar seu reino de um inverno eterno causado pelos poderes de sua irmã, a Rainha Elsa. Ela embarca em uma jornada épica para encontrar Elsa(n)</desc>
+    <credits>
+      <director>Jennifer Lee</director>
+      <director>Chris Buck</director>
+      <actor>Vozes de Idina Menzel</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Jonathan Groff</actor>
+      <actor>Josh Gad</actor>
+      <actor>Santino Fontana</actor>
+      <actor>Alan Tudyk</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709113000 -0300" stop="20190709120000 -0300" channel="Disney">
+    <title lang="pt">Olaf Em Uma Nova Aventura Congelante De Frozen</title>
+    <desc lang="pt">Olaf, o simpático boneco de neve irá ajudar Anna e Elsa a criarem novas tradições natalinas(n)</desc>
+    <credits>
+      <director>Kevin Deters</director>
+      <director>Stevie Wermers</director>
+      <actor>Vozes de Jonathan Groff</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Josh Gad</actor>
+      <actor>Idina Menzel</actor>
+      <actor>Idina Menzel</actor>
+      <actor>Cassidy May Benullo</actor>
+      <actor>Margaux Calla Susi</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709120000 -0300" stop="20190709121500 -0300" channel="Disney">
+    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
+    <desc lang="pt">Um cupcake empreendedor e seu animado irmão dinossauro estão dispostos a qualquer coisa para satisfazer clientes e ajudar os amigos numa cidade muito doida(n)</desc>
+    <credits>
+      <director>Pedro Eboli</director>
+      <actor>Vozes de Justin Collette</actor>
+      <actor>Kyle Dooley</actor>
+      <actor>Mark Forward</actor>
+      <actor>Julie Lemieux</actor>
+      <actor>Joris Jarsky</actor>
+      <actor>Mark Little</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709121500 -0300" stop="20190709123000 -0300" channel="Disney">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">O desenho retrata as aventuras de Boris, um cachorro ranzinza, e Rufus, um furão empolgado que acredita ser cachorro. Ambos vivem no quintal de Enzo, um adolescente apaixonado por sua vizinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709123000 -0300" stop="20190709130000 -0300" channel="Disney">
+    <title lang="pt">Jessie</title>
+    <desc lang="pt">Entusiasmada com a possibilidade de se tornar independente e decidida a não se deixar intimidar por Nova York, Jessie aceita um trabalho como babá dos quatro filhos do próspero casal Morgan e Pandora: Emma, Ravi, Luke e Zuri(n)</desc>
+    <credits>
+      <director>Bob Koherr</director>
+      <actor>Debby Ryan</actor>
+      <actor>Karan Brar</actor>
+      <actor>Skai Jackson</actor>
+      <actor>Peyton List</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709130000 -0300" stop="20190709133000 -0300" channel="Disney">
+    <title lang="pt">Toy Story de Terror</title>
+    <desc lang="pt">A Disney Pixar apresenta uma nova e assustadora história que conta com todos os personagens preferidos da franquia(n)</desc>
+    <credits>
+      <director>Angus MacLane</director>
+      <actor>Vozes de Tom Hanks</actor>
+      <actor>Tim Allen</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>John Ratzenberger</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709133000 -0300" stop="20190709140000 -0300" channel="Disney">
+    <title lang="pt">Toy Story: Esquecidos pelo Tempo</title>
+    <desc lang="pt">Quando o grupo de brinquedos acaba preso numa terra desconhecida, repleta de incríveis e perigosos action figures, cabe à dinossaura Trixie trazê-los de volta ao quarto da doce Bonnie(n)</desc>
+    <credits>
+      <director>Steve Purcell</director>
+      <actor>Vozes de Tom Hanks</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Tim Allen</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Joan Cusack</actor>
+      <actor>Timothy Dalton</actor>
+      <actor>Wallace Shawn</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709140000 -0300" stop="20190709150000 -0300" channel="Disney">
+    <title lang="pt">Disney Bia</title>
+    <desc lang="pt">As aventuras diárias de um grupo de jovens influenciadores digitais que exploram a tecnologia ao máximo: todos veem nela uma forma autêntica e contemporânea de se expressar(n)</desc>
+    <credits>
+      <director>Jorge Bechara</director>
+      <director>Daniel de Filippo</director>
+      <actor>Isabela Souza</actor>
+      <actor>Julio Peña</actor>
+      <actor>Guido Messina</actor>
+      <actor>Andrea de Alba</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709150000 -0300" stop="20190709164500 -0300" channel="Disney">
+    <title lang="pt">Zombies</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Paul Hoen</director>
+      <actor>Milo Manheim</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Trevor Tordjman</actor>
+      <actor>Kylee Russell</actor>
+      <actor>Carla Zeffery</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709164500 -0300" stop="20190709184500 -0300" channel="Disney">
+    <title lang="pt">Frozen: Uma Aventura Congelante</title>
+    <desc lang="pt">A otimista e destemida princesa Anna precisa salvar seu reino de um inverno eterno causado pelos poderes de sua irmã, a Rainha Elsa. Ela embarca em uma jornada épica para encontrar Elsa(n)</desc>
+    <credits>
+      <director>Jennifer Lee</director>
+      <director>Chris Buck</director>
+      <actor>Vozes de Idina Menzel</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Jonathan Groff</actor>
+      <actor>Josh Gad</actor>
+      <actor>Santino Fontana</actor>
+      <actor>Alan Tudyk</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709184500 -0300" stop="20190709190000 -0300" channel="Disney">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo(n)</desc>
+    <credits>
+      <director>Dave Wasson</director>
+      <actor>Vozes de Eden Sher</actor>
+      <actor>Adam McArthur</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Daron Nefcy</actor>
+      <actor>Nate Torrence</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709190000 -0300" stop="20190709194500 -0300" channel="Disney">
+    <title lang="pt">Disney Bia</title>
+    <desc lang="pt">As aventuras diárias de um grupo de jovens influenciadores digitais que exploram a tecnologia ao máximo: todos veem nela uma forma autêntica e contemporânea de se expressar(n)</desc>
+    <credits>
+      <director>Jorge Bechara</director>
+      <director>Daniel de Filippo</director>
+      <actor>Isabela Souza</actor>
+      <actor>Julio Peña</actor>
+      <actor>Guido Messina</actor>
+      <actor>Andrea de Alba</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709194500 -0300" stop="20190709203000 -0300" channel="Disney">
+    <title lang="pt">Disney Bia</title>
+    <desc lang="pt">As aventuras diárias de um grupo de jovens influenciadores digitais que exploram a tecnologia ao máximo: todos veem nela uma forma autêntica e contemporânea de se expressar(n)</desc>
+    <credits>
+      <director>Jorge Bechara</director>
+      <director>Daniel de Filippo</director>
+      <actor>Isabela Souza</actor>
+      <actor>Julio Peña</actor>
+      <actor>Guido Messina</actor>
+      <actor>Andrea de Alba</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709203000 -0300" stop="20190709223000 -0300" channel="Disney">
+    <title lang="pt">A Bela e a Fera</title>
+    <desc lang="pt">Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida em troca dele(n)</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Emma Watson</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Luke Evans</actor>
+      <actor>Josh Gad</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Hattie Morahan</actor>
+      <actor>Haydn Gwynne</actor>
+      <actor>Gerard Horan</actor>
+      <actor>Ray Fearon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190709223000 -0300" stop="20190709230000 -0300" channel="Disney">
+    <title lang="pt">Hannah Montana</title>
+    <desc lang="pt">Miley Stewart é também a famosa Hannah Montana, uma pop star de 14 anos que se muda para Malibu, Califórnia, com Jackson, seu irmão mais velho, e seu pai Robby, um compositor muito talentoso(n)</desc>
+    <credits>
+      <director>Fred Savage</director>
+      <actor>Miley Cyrus</actor>
+      <actor>Emily Osment</actor>
+      <actor>Jason Earles</actor>
+      <actor>Mitchel Musso</actor>
+      <actor>Billy Ray Cyrus</actor>
+      <actor>Shanica Knwles</actor>
+      <actor>Anna Maria Perez de Tagle</actor>
+      <actor>Cody Linley</actor>
+      <actor>Hiromi Dames</actor>
+      <actor>Cutter Mitchell</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709230000 -0300" stop="20190709233000 -0300" channel="Disney">
+    <title lang="pt">A Irmã do Meio</title>
+    <desc lang="pt">A série conta a história da família Díaz, mas centra-se mais na vida de Harley Díaz, a quarta irmã dos 7 irmãos da Família Díaz(n)</desc>
+    <credits>
+      <director>Paul Hoen</director>
+      <director>David Kendall</director>
+      <director>Jonathan A. Rosenbaum</director>
+      <director>Linda Mendoza</director>
+      <actor>Jenna Ortega</actor>
+      <actor>Ronni Hawk</actor>
+      <actor>Isaak Presley</actor>
+      <actor>Ariana Greenblatt</actor>
+      <actor>Kayla Maisonet</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709233000 -0300" stop="20190710000000 -0300" channel="Disney">
+    <title lang="pt">Bizaardvark</title>
+    <desc lang="pt">Paige e Frankie têm 13 anos, e criam canções graciosas e divertidas e as transmitem através de vídeo clipes na Internet(n)</desc>
+    <credits>
+      <actor>Olivia Rodrigo</actor>
+      <actor>Madison Hu</actor>
+      <actor>Jake Paul</actor>
+      <actor>DeVore Ledridge</actor>
+      <actor>Ethan Wacker</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
     </rating>
   </programme>
 </tv>

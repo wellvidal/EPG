@@ -1,0 +1,789 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190709004500 -0300" stop="20190709014000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles: Problema Sério</title>
+    <desc lang="pt">A equipe investiga um caso envolvendo um submarino desaparecido com uma carga de bilhões de dólares em cocaína, com a ajuda de um agente da DEA com quem já haviam trabalhado antes(n)</desc>
+    <credits>
+      <director>Larry Teng</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Andy Mackenzie</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709014000 -0300" stop="20190709023500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU procura por um unsub em Austin, Texas, que tem como alvo membros proeminentes da comunidade(n)</desc>
+    <credits>
+      <director>Marcus Stokes</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709023500 -0300" stop="20190709033000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Um caso envolvendo um serial killer que se acredita estar seguindo os mesmos passos de Jack o Estripador, leva Gideon para New Orleans onde três vítimas são encontradas com a garganta cortada(n)</desc>
+    <credits>
+      <director>Steve Shill</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Josh Stewart</actor>
+      <actor>Simone Kessell</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709033000 -0300" stop="20190709042000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Um serial killer, incendiário, tem como alvo as casas de um bairro de classe média. A equipe do BAU descobre que as vitimas estão ligadas a uma empresa de construção acusada de construir em locais contaminados(n)</desc>
+    <credits>
+      <director>John E. Gallagher</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Tom Schanley</actor>
+      <actor>Anthony Ruivivar</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709042000 -0300" stop="20190709051500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Enquanto procuram por um homem sequestrado, a equipe do BAU descobre que os sequestradores têm ligações com a máfia russa cujos membros vivem sob um rígido código de conduta(n)</desc>
+    <credits>
+      <director>Jesús Salvador Treviño</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Kate Jackson</actor>
+      <actor>Gonzalo Menendez</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709051500 -0300" stop="20190709060000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada para mais uma investigação depois que corpos de pessoas desaparecidas são encontrados em uma região distante do deserto de Idaho(n)</desc>
+    <credits>
+      <director>Félix Enríquez Alcalá</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Laura Allen</actor>
+      <actor>Jim Parrack</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709060000 -0300" stop="20190709070000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">DiNozzo tem como parceira sua namorada, a agente especial da ATF Zoé Keates, depois que evidências revelam que a arma do crime em um caso da NCIS foi originalmente comprada para a ação da ATF(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Rocky Carroll</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709070000 -0300" stop="20190709080000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Gibbs e Bishop vão ao Afeganistão após descobrirem que a morte de um fuzileiro, em Washington, pode estar ligada a um grupo terrorista que conta com outro soldado como refém(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Rocky Carroll</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S12 E21</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709080000 -0300" stop="20190709090000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">O agente especial Ned Dorneget, do centro de operações tecnológicas, ajuda o time com um caso envolvendo a morte de um oficial da inteligência naval. Ao mesmo tempo, o grupo descobre que Jake e Gibbs se tornaram bons amigos(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Rocky Carroll</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S12 E22</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709090000 -0300" stop="20190709100000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Um caso do time de tecnologia de NCIS se transforma em um esforço global quando evidências confirmam que(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Rocky Carroll</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S12 E23</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709100000 -0300" stop="20190709110000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">O time NCIS investiga fervorosamente um grupo global de terrorismo que está recrutando adolescentes via internet(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Rocky Carroll</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S12 E24</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709110000 -0300" stop="20190709115500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um informante confidencial da equipe é acusado de assassinato, o que leva McGarrett a pedir para um velho amigo, Odell Martin, defender o suposto criminoso(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709115500 -0300" stop="20190709125000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um criminoso em Miami enaltece seus crimes dando filmagens exclusivas para a mídia local, a BAU é chamada para investigar(n)</desc>
+    <credits>
+      <director>Bethany Rooney</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709125000 -0300" stop="20190709134500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Distraído por uma atraente passageira, um motorista de táxi indiano percebe que seu carro atropelou algo num cruzamento de um bairro(n)</desc>
+    <credits>
+      <director>Charles Correll</director>
+      <actor>Gary Dourdan</actor>
+      <actor>Jorja Fox</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Michele Greene</actor>
+      <actor>Paul Guilfoyle</actor>
+    </credits>
+    <date>2002</date>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709134500 -0300" stop="20190709144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">O BAU lidera a investigação de uma série de assassinatos acontecendo em supostas casas assombradas em Lewiston, Maine(n)</desc>
+    <credits>
+      <director>Rob Bailey</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Jamie Anne Allman</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S14 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709144000 -0300" stop="20190709153500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Depois do ataque terrorista, a equipe da NCIS fica chocada e tenta lidar com a repentina morte de Kate, cada um a seu modo(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Alan Dale</actor>
+    </credits>
+    <date>2005</date>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709153500 -0300" stop="20190709163000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles: Problema Sério - Parte 2</title>
+    <desc lang="pt">Callen e Sam ficam presos em um submarino armado com o qual terroristas pretendem abater um porta-aviões em San Diego(n)</desc>
+    <credits>
+      <director>Larry Teng</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Andy Mackenzie</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709163000 -0300" stop="20190709172500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um informante confidencial da equipe é acusado de assassinato, o que leva McGarrett a pedir para um velho amigo, Odell Martin, defender o suposto criminoso(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709172500 -0300" stop="20190709182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Distraído por uma atraente passageira, um motorista de táxi indiano percebe que seu carro atropelou algo num cruzamento de um bairro(n)</desc>
+    <credits>
+      <director>Charles Correll</director>
+      <actor>Gary Dourdan</actor>
+      <actor>Jorja Fox</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Michele Greene</actor>
+      <actor>Paul Guilfoyle</actor>
+    </credits>
+    <date>2002</date>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709182000 -0300" stop="20190709191500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Depois do ataque terrorista, a equipe da NCIS fica chocada e tenta lidar com a repentina morte de Kate, cada um a seu modo(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Alan Dale</actor>
+    </credits>
+    <date>2005</date>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709191500 -0300" stop="20190709201000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles: Problema Sério - Parte 2</title>
+    <desc lang="pt">Callen e Sam ficam presos em um submarino armado com o qual terroristas pretendem abater um porta-aviões em San Diego(n)</desc>
+    <credits>
+      <director>Larry Teng</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Andy Mackenzie</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709201000 -0300" stop="20190709210500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Distraído por uma atraente passageira, um motorista de táxi indiano percebe que seu carro atropelou algo num cruzamento de um bairro(n)</desc>
+    <credits>
+      <director>Charles Correll</director>
+      <actor>Gary Dourdan</actor>
+      <actor>Jorja Fox</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Michele Greene</actor>
+      <actor>Paul Guilfoyle</actor>
+    </credits>
+    <date>2002</date>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709210500 -0300" stop="20190709220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um criminoso em Miami enaltece seus crimes dando filmagens exclusivas para a mídia local, a BAU é chamada para investigar(n)</desc>
+    <credits>
+      <director>Bethany Rooney</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709220000 -0300" stop="20190709225500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Jimmy está dividido entre a família e o trabalho depois que seu sogro, Ed, pede a ele que mexa com as evidências da atual investigação de assassinato do NCIS(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>Wilmer Valderrama</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>Maria Bello</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S16 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709225500 -0300" stop="20190709235000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um informante confidencial da equipe é acusado de assassinato, o que leva McGarrett a pedir para um velho amigo, Odell Martin, defender o suposto criminoso(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709235000 -0300" stop="20190710004500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Jimmy está dividido entre a família e o trabalho depois que seu sogro, Ed, pede a ele que mexa com as evidências da atual investigação de assassinato do NCIS(n)</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>Wilmer Valderrama</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>Maria Bello</actor>
+      <actor>Brian Dietzen</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S16 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709005100 -0300" stop="20190709014100 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio: O Assassino Fantasma</title>
+    <desc lang="pt">Jeremy Wade volta ao rio australiano Fitzroy, famoso por seus predadores, à procura de um dos peixes mais raros e pouco conhecidos do mundo, um tubarão de água doce. A espécie é tão rara que apenas 20 animais foram capturados(n)</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709014100 -0300" stop="20190709023100 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio: Dentes Afiados</title>
+    <desc lang="pt">Nesta batalha entre homem e feras assassinas quase sobrenaturais, que se ocultam nas águas do planeta e atingem tamanhos incríveis, Jeremy Wade analisa como estes monstros foram feitos para matar(n)</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709023100 -0300" stop="20190709032100 -0300" channel="Animal Planet">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas: O Monstro do Lago Italiano</title>
+    <desc lang="pt">Segundo a lenda, um dos lagos mais bonitos da Europa guarda um segredo antigo. Jeremy Wade viaja para o Lago de Garda, na Itália, para investigar um monstro descrito como metade cobra, metade dinossauro(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709032100 -0300" stop="20190709041100 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio: A Lenda do Lago Ness</title>
+    <desc lang="pt">Jeremy Wade está em uma missão para descobrir o famoso monstro do lago Ness. Será que ele terá sucesso onde tantos já falharam? Nesta jornada, ele ainda visita os vulcões da Islândia(n)</desc>
+    <credits>
+      <director>Dominic Weston</director>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709041100 -0300" stop="20190709050100 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio: Estripador de Rostos</title>
+    <desc lang="pt">Jeremy investiga seu caso mais perturbador - um homem que teve o rosto dilacerado em um rio remoto da Bolívia. A jornada por selvas perigosas acaba em um confronto com um antigo adversário(n)</desc>
+    <credits>
+      <director>Alex Parkinson</director>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709050100 -0300" stop="20190709055100 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <desc lang="pt">O Dr. Jeff e sua equipe de veterinários viajam para o México para ajudar animais de estimação e seus tutores. A Dr. Petra e o Dr. Nichols atendem um cão gravemente ferido em uma briga(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709055100 -0300" stop="20190709061600 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <desc lang="pt">Chris Kri tem como missão salvar o Recife Patricia, cujos corais estão sendo devastados pela pesca de arrasto. A solução é instalar 120 bolas de concreto no fundo do mar, mas a operação é complicada(n)</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709061600 -0300" stop="20190709064200 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Os animais podem fazer coisas extraordinárias, mas como conseguem executar façanhas tão incríveis? Especialistas revelam os segredos do reino animal com imagens impressionantes e fatos surpreendentes(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709064200 -0300" stop="20190709070700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Os animais podem fazer coisas extraordinárias, mas como conseguem executar façanhas tão incríveis? Especialistas revelam os segredos do reino animal com imagens impressionantes e fatos surpreendentes(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709070700 -0300" stop="20190709075700 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal</title>
+    <desc lang="pt">O oficial Glen Lucas corre para o local de um acidente. Quando uma casa é invadida, os oficiais Bill Boudreau e Eric Hannerr ajudam a polícia a rastrear o suspeito(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190709075700 -0300" stop="20190709084700 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal: Sem Saída</title>
+    <desc lang="pt">Quando um caçador parece estar mentindo sobre as circunstâncias da morte de um cervo, Bob Mancini e Kevin Bronson investigam o caso(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190709084700 -0300" stop="20190709093700 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal: No Ar Rarefeito</title>
+    <desc lang="pt">Glen Lucas escala o topo do Monte Washington para resgatar um alpinista ferido. Os agentes localizam um trio de supostos caçadores de cervos. Ron Arsenault investiga uma denúncia sobre um caçador de linces(n)</desc>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190709093700 -0300" stop="20190709100200 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Os animais podem fazer coisas extraordinárias, mas como conseguem executar façanhas tão incríveis? Especialistas revelam os segredos do reino animal com imagens impressionantes e fatos surpreendentes(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709100200 -0300" stop="20190709102700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Os animais podem fazer coisas extraordinárias, mas como conseguem executar façanhas tão incríveis? Especialistas revelam os segredos do reino animal com imagens impressionantes e fatos surpreendentes(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709102700 -0300" stop="20190709111700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal: Gerra Fria</title>
+    <desc lang="pt">Com o capitão Edgar Hansen no leme, o Northwestern chega perto de um motim. Marinheiros bêbados colocam o Saga em risco e o capitão Johnathan aposta alto para encerrar sua temporada de pesca(n)</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+      <actor>Edgar Hansen</actor>
+      <actor>Scott Hillstrand</actor>
+      <actor>Deadliest Catch</actor>
+      <actor>Andy Hillstrand</actor>
+    </credits>
+    <episode-num system="onscreen">S12 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190709111700 -0300" stop="20190709120700 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas: O Monstro-de-gila</title>
+    <desc lang="pt">Dominic está no deserto de Sonora, no Arizona. O deserto de maior biodiversidade da América do Norte também é um dos mais quentes(n)</desc>
+    <credits>
+      <director>Paul Kilback</director>
+      <actor>Dominic Monaghan</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709120700 -0300" stop="20190709130000 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+    <desc lang="pt">A girafa Rosie está prestes a dar à luz. Enquanto Bindi testemunha este evento impressionante, Robert tem um encontro sangrento com uma cobra e Terri enfrenta o temível diabo-da-tasmânia(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709130000 -0300" stop="20190709135000 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Amazônia: Futebol na Selva</title>
+    <desc lang="pt">Frank arrisca sua vida para nos mostrar um jacaré-açu. Enquanto isso, começa o jogo de futebol entre os filhos dos desanas e dos maués. Quem irá ganhar(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709135000 -0300" stop="20190709144000 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Amazônia</title>
+    <desc lang="pt">Neste episódio especial de Wild Frank, conheça as dificuldades enfrentadas pela equipe para filmar na selva. Frank mostra outros animais selvagens e cenas inéditas(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709144000 -0300" stop="20190709153000 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+    <desc lang="pt">Nesta nova série, Frank segue os passos do Dr. Livingstone pelo interior da África. Da Abadia de Westminster em Londres, onde o Dr. Livingstone descansa, até Chitambo, no Zâmbia, onde seu coração está enterrado(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709153000 -0300" stop="20190709162000 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem: Malásia</title>
+    <desc lang="pt">A diversidade da Malásia é inigualável, principalmente na terceira maior ilha do mundo, Bornéu, onde orangotangos se balançam entre as árvores enquanto crocodilos gigantes espreitam os rios(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709162000 -0300" stop="20190709171000 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem: Tailândia</title>
+    <desc lang="pt">Um país moldado por forças brutas, onde animais encaram desafios para sobreviver, a Tailândia é o lugar em que tigres ainda são o predador alfa e macacos evoluíram rapidamente(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709171000 -0300" stop="20190709180000 -0300" channel="Animal Planet">
+    <title lang="pt">Europa Selvagem: Terra Gelada</title>
+    <desc lang="pt">Explore a vida selvagem da fronteira gelada do norte da Europa, das águias-douradas de Cairngorms, na Escócia, aos ursos polares do Arquipélago de Svalbard, na Noruega(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709180000 -0300" stop="20190709182600 -0300" channel="Animal Planet">
+    <title lang="pt">Aprendiz Animal: Cemacás</title>
+    <desc lang="pt">Gui Padoa está no Cemacás, centro que recebe animais silvestres resgatados por toda a cidade de São Paulo e arredores(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709182600 -0300" stop="20190709185100 -0300" channel="Animal Planet">
+    <title lang="pt">Aprendiz Animal: R3</title>
+    <desc lang="pt">Gui Padoa está no Parque do Rio Vermelho, em Florianópolis, para ajudar a ong R3, que cuida da fauna marinha e terrestre da região. O trabalho começa com a limpeza das muitas pedras do recinto das gaivotas e pinguins(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709185100 -0300" stop="20190709194300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio: Assassinos do Abismo Parte 2</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709194300 -0300" stop="20190709203900 -0300" channel="Animal Planet">
+    <title lang="pt">Tailândia Selvagem: O Centro Vital</title>
+    <desc lang="pt">No centro da Tailândia, nas florestas, planícies e até cidades, o mundo selvagem encontra formas de conviver com as pessoas. A espiritualidade é a chave para entender essa relação harmoniosa(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709203900 -0300" stop="20190709213400 -0300" channel="Animal Planet">
+    <title lang="pt">Animais das Montanhas</title>
+    <desc lang="pt">Os animais extraordinários que vivem nas maiores cordilheiras do mundo. As Rochosas são a coluna vertebral da América do Norte, uma região fascinante que abriga pumas, carcajus, lobos e ursos-pardos(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709213400 -0300" stop="20190709222900 -0300" channel="Animal Planet">
+    <title lang="pt">As Quatro Estações da Terra: Verão</title>
+    <desc lang="pt">A cada ano, a mudança das estações transforma nosso planeta de forma espetacular. Elas impulsionam todas as formas de vida na Terra, trazendo grandes oportunidades e desafios complexos(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709222900 -0300" stop="20190709231900 -0300" channel="Animal Planet">
+    <title lang="pt">Predadores: À Mercê das Estações</title>
+    <desc lang="pt">Este episódio mostra os desafios enfrentados pelos predadores com a sazonalidade do Ártico. Diante da mudança de condições, estratégias e presas, predadores como o lobo, a raposa-do-ártico e o urso polar precisam se adaptar(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709231900 -0300" stop="20190709234500 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil: Prainha Branca</title>
+    <desc lang="pt">Anderson e Aruay vão para o Guarujá-SP fazer a trilha da Prainha Branca, um local completamente diferente das praias urbanizadas da cidade(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709234500 -0300" stop="20190710005100 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil: Cachoeira do Rio Mimoso</title>
+    <desc lang="pt">Aruay e Anderson fazem a trilha do Rio Mimoso em busca da Cachoeira de borda Infinita no meio da Mata Atlântica(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>

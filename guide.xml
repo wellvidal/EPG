@@ -1,5 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvbeltrao.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="AXN">
     <display-name lang="pt">AXN</display-name>
     <url>http://www.clarotv.com.br</url>
@@ -171,6 +180,18 @@
   <channel id="The History Channel">
     <display-name lang="pt">History</display-name>
     <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ID - Investigação Discovery">
+    <display-name lang="pt">ID</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="IDEAL TV">
+    <display-name lang="pt">IDEAL TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20190709004500 -0300" stop="20190709014000 -0300" channel="AXN">
     <title lang="pt">NCIS: Los Angeles: Problema Sério</title>
@@ -6434,15 +6455,6 @@
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190709003200 -0300" stop="20190709012000 -0300" channel="Discovery Channel">
-    <title lang="pt">Mad Dog: Mestre dos Metais</title>
-    <desc lang="pt">Mad Dog e a equipe reconfiguram um girocóptero para ajudar nas buscas diurnas e noturnas por pessoas perdidas em florestas. Um paramédico precisa de um novo kit de resgate para socorrer vítimas nas montanhas(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
   <programme start="20190709012000 -0300" stop="20190709020900 -0300" channel="Discovery Channel">
     <title lang="pt">Destiladores: Um Natal Embriagante</title>
     <desc lang="pt">Durante a época do Natal, Tim percorre quase 6.500 quilômetros para entregar um presente especial a um cliente nos confins do Alasca(n)</desc>
@@ -6674,85 +6686,12 @@
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20190709153600 -0300" stop="20190709162400 -0300" channel="Discovery Channel">
+  <programme start="20190709153600 -0300" stop="20190710003200 -0300" channel="Discovery Channel">
     <title lang="pt">Desafio em Dose Dupla: Separados</title>
     <desc lang="pt">Os especialistas em sobrevivência Cody Lundin e Dave Canterbury enfrentam um pesadelo: eles estão perdidos, e longe um do outro, no Arizona(n)</desc>
     <episode-num system="onscreen">E6</episode-num>
     <rating system="BR">
       <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709162400 -0300" stop="20190709180000 -0300" channel="Discovery Channel">
-    <title lang="pt">Quilos Mortais: James K</title>
-    <desc lang="pt">Pesando 358 quilos, James vive acamado e mal consegue mover as pernas. Com um prognóstico de poucos meses de vida, ele se submete a uma cirurgia bariátrica que pode salvá-lo(n)</desc>
-    <episode-num system="onscreen">S5 E7</episode-num>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190709180000 -0300" stop="20190709182500 -0300" channel="Discovery Channel">
-    <title lang="pt">Aeroporto: Área Restrita: A União faz a Força 2ª Temp.</title>
-    <desc lang="pt">Agentes da Imigração e aula práticado InterCops, com participação de vários policiais do mundo, se deparam com suspeitos de terrorismo e trabalho escravo(n)</desc>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709182500 -0300" stop="20190709185000 -0300" channel="Discovery Channel">
-    <title lang="pt">Aeroporto: Área Restrita: Pátria Amada</title>
-    <desc lang="pt">Polícia Federal e Receita Federal se unem para prender um traficante de drogas saindo do país. Na alfândega, agentes aduaneiros se deparam com um novo esquema para entrada ilegal de produtos e joias(n)</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709185000 -0300" stop="20190709194000 -0300" channel="Discovery Channel">
-    <title lang="pt">Desafio em Dose Dupla: Pantanal</title>
-    <desc lang="pt">No Pantanal brasileiro, a maior área alagada do mundo, Cody e Dave caem em águas infestadas de piranhas para tentar voltar à civilização. A melhor chance de conseguir resgate é percorrer um rio(n)</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709194000 -0300" stop="20190709203000 -0300" channel="Discovery Channel">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-    <desc lang="pt">Após uma semana nas terras áridas da Colômbia, um especialista em sobrevivência já desistiu, outro está prestes a sair e a fome, a sede e a falta de confiança ameaçam derrubar outros(n)</desc>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709203000 -0300" stop="20190709211400 -0300" channel="Discovery Channel">
-    <title lang="pt">Largados e Pelados: Paraíso Perdido</title>
-    <desc lang="pt">Alana e Keith são largados em uma ilha deserta de Fiji. Eles precisam conciliar suas personalidades fortes para lutar contra os elementos e tentar sobreviver a 21 dias no desafiador terreno tropical(n)</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20190709211400 -0300" stop="20190709225200 -0300" channel="Discovery Channel">
-    <title lang="pt">Largados e Pelados: A União Não Faz a Força</title>
-    <desc lang="pt">Duas equipes de sobrevivencialistas descobrem que devem enfrentar as selvas do Panamá juntas. Mas, antes do início do desafio de 21 dias, as diferenças de gênero os obrigam a repensar suas estratégias de sobrevivência(n)</desc>
-    <date>2019</date>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190709225200 -0300" stop="20190709234200 -0300" channel="Discovery Channel">
-    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-    <desc lang="pt">A primeira pepita promete ser altamente lucrativa. Quando Dustin mergulha na zona de perigo, uma forte correnteza arrasta as pedras e uma rocha enorme quase o mata(n)</desc>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20190709234200 -0300" stop="20190710003200 -0300" channel="Discovery Channel">
-    <title lang="pt">Planeta Terra: Pradarias</title>
-    <desc lang="pt">Nas pradarias, os animais enfrentam as mudanças sazonais mais hostis do planeta. Da saiga da Ásia ao tamanduá-gigante do Brasil, as espécies criaram formas incomuns para enfrentar seus desafios(n)</desc>
-    <date>2016</date>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="BR">
-      <value>0+</value>
     </rating>
   </programme>
   <programme start="20190709000200 -0300" stop="20190709002400 -0300" channel="Discovery Kids">
@@ -15241,5 +15180,675 @@
     <rating system="BR">
       <value>13+</value>
     </rating>
+  </programme>
+  <programme start="20190709004000 -0300" stop="20190709012800 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Os Segredos da Minha Morte</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Jeremiah Kipp</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709012800 -0300" stop="20190709021400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Coração Sombrio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Joe Flynn Connor</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709021400 -0300" stop="20190709030000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Coração Sombrio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Joe Flynn Connor</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709030000 -0300" stop="20190709034600 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Inverno Mortal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Justin Lee Stanley</director>
+      <actor>Shawn Parr</actor>
+      <actor>Thomas Cambridge</actor>
+      <actor>John Cerny !??</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709034600 -0300" stop="20190709043200 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Inverno Mortal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Justin Lee Stanley</director>
+      <actor>Mike Anderson</actor>
+      <actor>Richard Bird</actor>
+      <actor>Peter Burgert</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709043200 -0300" stop="20190709051600 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Frios e Calculistas: A Próxima Vítima</title>
+    <desc lang="pt">A esposa de um delegado vai atender a porta de sua casa na Virgínia, é atingida por um tiroteio, e surgem teorias em sua comunidade. Mas outros cidadãos são baleados em suas portas, e todos se perguntam quem será o próximo(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709051600 -0300" stop="20190709060400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Frios e Calculistas: Amigo do Diabo</title>
+    <desc lang="pt">Em um mês, quatro homens do condado de Orange são brutalmente esfaqueados por um criminoso misterioso. Um homem preso por matar sua própria família liga estes casos ao homicídio duplo que cometeu dois meses antes(n)</desc>
+    <credits>
+      <actor>Jayson Cross</actor>
+      <actor>Roger Greco</actor>
+      <actor>Trionna Moore</actor>
+      <actor>Indiana Sifuentes</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709060400 -0300" stop="20190709062800 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Desvendando Mentiras: O Vizinho</title>
+    <desc lang="pt">Tudo o que Steve quer é uma fiação nova para casa, já que comprou eletrodomésticos e não consegue ligá-los ao mesmo tempo. O vizinho Bill cobrou 4 mil pelo serviço, e Steve acha que foi enganado(n)</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709062800 -0300" stop="20190709071600 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Casos Reais com Maria Elena Salinas: Fraternidade Sangrenta</title>
+    <desc lang="pt">Quando uma universitária morre durante uma viagem de fim de semana, os detetives demoram quatro anos para revelar a rede de segredos que provocou seu fim precoce(n)</desc>
+    <credits>
+      <actor>Mina Skyler</actor>
+      <actor>Kevin So</actor>
+      <actor>Will Tomi</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709071600 -0300" stop="20190709080400 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Casos Reais com Maria Elena Salinas: Vil Metal</title>
+    <desc lang="pt">Quando uma empregada doméstica idosa é encontrada morta em uma casa elegante no Texas, os investigadores descobrem um labirinto de intrigas e ganância desmedida(n)</desc>
+    <credits>
+      <actor>Heather Lehrman</actor>
+      <actor>Pat Buck</actor>
+      <actor>Lawrence Derx</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709080400 -0300" stop="20190709085200 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">James Patterson: O Mestre do Suspense</title>
+    <desc lang="pt">Dee Dee Blanchard e sua filha doente, Gypsy, são muito queridas pela vizinhança. Quando Gypsy desaparece e o corpo de Dee Dee é encontrado dentro de seu quarto, a polícia descobre um segredo difícil de acreditar(n)</desc>
+    <credits>
+      <director>Colin Teague</director>
+      <actor>Narelle Ahrens</actor>
+      <actor>Amanda Billing</actor>
+      <actor>Owen Black</actor>
+      <actor>Hannah Mosqueda</actor>
+      <actor>Jocelyn Christian</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709085200 -0300" stop="20190709094000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">James Patterson: O Mestre do Suspense: A Conspiração 1ª Temp.</title>
+    <desc lang="pt">Quando um assassino de aluguel mata Frank e Nancy Howard em sua casa, os investigadores analisam as pistas e descobrem uma intricada conspiração que começou dois anos antes do crime(n)</desc>
+    <credits>
+      <director>Colin Teague</director>
+      <actor>Eran Backler</actor>
+      <actor>Jack Barry</actor>
+      <actor>Jon Briddell</actor>
+      <actor>Diego Cortinas</actor>
+      <actor>Erroll Shand</actor>
+      <actor>Daniel sing</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709094000 -0300" stop="20190709103000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">James Patterson: O Mestre do Suspense: Mistério em Kankakee 1ª</title>
+    <desc lang="pt">Um crime brutal abala a pequena cidade de Kankakee, Illinois, quando um sequestro tem como alvo um dos cidadãos mais conhecidos da cidade(n)</desc>
+    <credits>
+      <director>David O'Neill</director>
+      <actor>Peter Ford</actor>
+      <actor>Josh McKenzie</actor>
+      <actor>Gareth Reeves</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709103000 -0300" stop="20190709112000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Segredos do Pântano</title>
+    <desc lang="pt">Na manhã de seu aniversário de 50 anos, uma mulher é encontrada no córrego Suqualena, no Mississippi. O que parece ser um afogamento acidental muda com os segredos que sua filha e sua amiga escondem(n)</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709112000 -0300" stop="20190709121000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Segredos do Pântano: Encontro Mortal</title>
+    <desc lang="pt">Um carro submerso retirado de um canal na Flórida revela uma tragédia: o corpo da enfermeira Beverly Jackson, de 39 anos. Sem pistas, a polícia conta com a ajuda de um denunciante anônimo(n)</desc>
+    <credits>
+      <director>Georgia Tanner</director>
+      <actor>Antonio J Bell</actor>
+      <actor>Christopher Bencomo</actor>
+      <actor>Kristopher Charles</actor>
+      <actor>Myles Evans</actor>
+      <actor>Patricia McRae</actor>
+      <actor>Anthony Neves</actor>
+      <actor>Anthony Neves</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709121000 -0300" stop="20190709130000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Segredos do Pântano</title>
+    <desc lang="pt">Uma festa num bosque termina em tragédia quando o corpo de Jarret Clark é encontrado num lago. É só uma questão de tempo até a polícia achar uma testemunha entre as pessoas que acampavam na região(n)</desc>
+    <credits>
+      <actor>Sterling Hurst</actor>
+      <actor>Christian Adam</actor>
+      <actor>Leah Anderson</actor>
+      <actor>Nick Arapoglou</actor>
+      <actor>Nick Arapoglou</actor>
+      <actor>Sheena Kharazmi</actor>
+      <actor>Gabriela Hernandez</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709130000 -0300" stop="20190709135000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Segredos do Pântano</title>
+    <desc lang="pt">A noite de bebedeira de uma jovem em um bar na beira da estrada, em Los Angeles, tem uma reviravolta sinistra quando ela desaparece do estacionamento e é encontrada em um pântano(n)</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709135000 -0300" stop="20190709144000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Análise de um Crime</title>
+    <desc lang="pt">O jovem pai Terrance Williams desaparece na Flórida. Quando sua mãe refaz seus passos, descobre que a última pessoa a vê-lo com vida tem uma ligação perturbadora com outro homem desaparecido(n)</desc>
+    <credits>
+      <actor>Camari Brown</actor>
+      <actor>Adam Davenport</actor>
+      <actor>Isa Goldberg</actor>
+      <actor>Peter Greenspun</actor>
+      <actor>Tamron Hall</actor>
+      <actor>Michael Lepre</actor>
+      <actor>Matthew Jenkins</actor>
+      <actor>Timothy Park</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709144000 -0300" stop="20190709153000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Análise de um Crime</title>
+    <desc lang="pt">Quando uma paramédica é encontrada morta e coberta de tinta no porão de sua casa, em Massachusetts, os investigadores trabalham incansavelmente, durante 18 meses, para achar o responsável pela morte(n)</desc>
+    <credits>
+      <actor>Camari Brown</actor>
+      <actor>Adam Davenport</actor>
+      <actor>Isa Goldberg</actor>
+      <actor>Peter Greenspun</actor>
+      <actor>Tamron Hall</actor>
+      <actor>Michael Lepre</actor>
+      <actor>Matthew Jenkins</actor>
+      <actor>Timothy Park</actor>
+    </credits>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709153000 -0300" stop="20190709162000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Paixões Doentias: Paixão Assassina</title>
+    <desc lang="pt">Melissa está perto de um futuro brilhante quando encontra seu namorado do colégio Robert em uma festa. Ela tenta seguir suas ambições, mas Robert fica muito possessivo, e sua vida vira um pesadelo(n)</desc>
+    <credits>
+      <director>Fergus Colville</director>
+      <actor>Melissa Dohme</actor>
+      <actor>Michelle Dohme</actor>
+      <actor>Joanne Dohme</actor>
+      <actor>Rachel Grey</actor>
+      <actor>Miriam Lucia</actor>
+      <actor>Dafydd Gape</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709162000 -0300" stop="20190709171000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Paixões Doentias: Amor Em Chamas</title>
+    <desc lang="pt">Audrey busca o amor em uma sala de bate-papo e encontra Chris, um policial charmoso. Quando finalmente o conhece, acha que ele será o pai de seus filhos, mas surge uma rede de mentiras(n)</desc>
+    <credits>
+      <director>Sean Grundy</director>
+      <actor>Audrey Mabrey</actor>
+      <actor>Laura Hagger</actor>
+      <actor>Maria Louis</actor>
+      <actor>Marlon G. Day</actor>
+      <actor>Sophie Bleasdale</actor>
+      <actor>Martin Alexander</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709171000 -0300" stop="20190709180000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Paixões Doentias: Ilusão Fatal</title>
+    <desc lang="pt">Kristi, de 19 anos, vai a um encontro às cegas com o pai solteiro, Steve, e se apaixona por ele e por seus filhos. Mas por trás deste pai dedicado existe um monstro controlador, que piora com a bebida(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709180000 -0300" stop="20190709185000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Investigação Criminal - Top Cases: Irmãs Yoshifusa</title>
+    <desc lang="pt">Quando Nelson Yoshifusa chegou em casa na noite do dia 11 de novembro de 2011, ele não imaginava o cenário de terror que encontraria(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709185000 -0300" stop="20190709194000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Vidas Destruídas: O Pacto</title>
+    <desc lang="pt">Em 1990, um adolescente desaparece. Quase duas décadas depois, ainda não se sabe se está vivo ou morto. É o pior pesadelo de uma mãe, mas um detetive se recusa a parar de procurá-lo até solucionar o mistério(n)</desc>
+    <credits>
+      <director>J. Tom Pogue</director>
+      <actor>Mark Meister</actor>
+      <actor>Karen Hull</actor>
+      <actor>Ivy Lanthier</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709194000 -0300" stop="20190709203000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Vidas Destruídas: Rio de Lágrimas</title>
+    <desc lang="pt">1981. Um adolescente forma uma equipe de buscas para encontrar sua irmã de cinco anos. 1995. Uma mãe procura o filho, que sumiu enquanto brincava em um rio. Uma policial reconhece o principal suspeito em ambos os casos(n)</desc>
+    <credits>
+      <director>Phoebe Kwong</director>
+      <director>J. Tom Pogue</director>
+      <actor>Richard Huffman</actor>
+      <actor>Mika Moulton</actor>
+      <actor>Jo Lynn Mulcahy</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709203000 -0300" stop="20190709212000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Infância Roubadaa: Segredos Revelados - Parte 1</title>
+    <desc lang="pt">Frustrada por décadas de silêncio da polícia, a família de uma das vítimas chama a atenção da imprensa. O detetive Williams consegue um grande avanço no caso e tecnologias modernas revelam novas pistas(n)</desc>
+    <credits>
+      <director>Tara Hughes</director>
+      <actor>Jacqueline Bynon</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709212000 -0300" stop="20190709220900 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Infância Roubadaa: Segredos Revelados - Parte 2</title>
+    <desc lang="pt">Os detetives seguem novas pistas, obtidas a partir de antigas provas materiais. Frustradas, as famílias das vítimas esperam que as novas tecnologias revelem a identidade do assassino das quatro crianças(n)</desc>
+    <credits>
+      <director>Tara Hughes</director>
+      <actor>Jacqueline Bynon</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709220900 -0300" stop="20190709225700 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo: A Garotinha do Papai</title>
+    <desc lang="pt">Robin Lindsey é salva da violência de sua mãe e passa a morar com o pai. Ela não imagina que o homem que considera seu protetor esconde intenções terríveis(n)</desc>
+    <credits>
+      <director>Joel Pincosy</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709225700 -0300" stop="20190709234700 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo: É Hoje que Vou Morrer</title>
+    <desc lang="pt">Quando Joshua Hudnall vai para a guerra, ele se sente mais à vontade em combate que com a própria mãe, Stephanie, que o atormentava. Joshua não imagina que a mãe e a irmã, Guenevere, tramarão a morte de seu pai por dinheiro(n)</desc>
+    <credits>
+      <director>Bryan C. Marsh</director>
+      <actor>Anna Fikhman</actor>
+      <actor>Mark Dancewicz</actor>
+      <actor>Michael DeBarge</actor>
+      <actor>Karen Kuzma</actor>
+      <actor>Devin Murphy</actor>
+      <actor>Annee Agnello</actor>
+      <actor>Brian Chandler Cook</actor>
+      <actor>Remington Ford</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190709234700 -0300" stop="20190710004000 -0300" channel="ID - Investigação Discovery">
+    <title lang="pt">Crimes Misteriosos: Madeleine McCann: Parte 1</title>
+    <desc lang="pt">Os pais da pequena Madeleine McCann têm certeza de que ela foi sequestrada em um resort em Portugal, mas logo se tornam suspeitos. Dez anos depois do crime, o mistério permanece. O que aconteceu com Maddie(n)</desc>
+    <credits>
+      <director>Bryan Gildner</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190709010000 -0300" stop="20190709020000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709020000 -0300" stop="20190709023000 -0300" channel="IDEAL TV">
+    <title lang="pt">Jornal Ideal</title>
+    <desc lang="pt">Notícias de empresas do Brasil e do mundo, notas de economia da semana e entrevistas com convidados. Com apresentação de Anita Paschkes, o Jornal Ideal também traz dicas culturais e um pouco de filosofia sobre nosso cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709023000 -0300" stop="20190709030000 -0300" channel="IDEAL TV">
+    <title lang="pt">Entre Formigas e Gafanhotos</title>
+    <desc lang="pt">O repórter Elcio Coronato entrevista empresários e profissionais que estão ganhando dinheiro com soluções sustentáveis. Enquanto isso, a apresentadora Darlene Menconi reúne especialistas para debater o tema do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709030000 -0300" stop="20190709070000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709070000 -0300" stop="20190709100000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709100000 -0300" stop="20190709130000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709130000 -0300" stop="20190709135000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709135000 -0300" stop="20190709143000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709143000 -0300" stop="20190709150000 -0300" channel="IDEAL TV">
+    <title lang="pt">Jornal Ideal</title>
+    <desc lang="pt">Notícias de empresas do Brasil e do mundo, notas de economia da semana e entrevistas com convidados. Com apresentação de Anita Paschkes, o Jornal Ideal também traz dicas culturais e um pouco de filosofia sobre nosso cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709150000 -0300" stop="20190709153000 -0300" channel="IDEAL TV">
+    <title lang="pt">Entre Formigas e Gafanhotos</title>
+    <desc lang="pt">O repórter Elcio Coronato entrevista empresários e profissionais que estão ganhando dinheiro com soluções sustentáveis. Enquanto isso, a apresentadora Darlene Menconi reúne especialistas para debater o tema do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709153000 -0300" stop="20190709190000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709190000 -0300" stop="20190709203000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709203000 -0300" stop="20190709212000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709212000 -0300" stop="20190709220000 -0300" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190709000000 -0300" stop="20190709010000 -0300" channel="Lifetime">
+    <title lang="pt">Bring It!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709010000 -0300" stop="20190709020000 -0300" channel="Lifetime">
+    <title lang="pt">Project Runway Jr</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709020000 -0300" stop="20190709030000 -0300" channel="Lifetime">
+    <title lang="pt">Dance Moms</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709030000 -0300" stop="20190709040000 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709040000 -0300" stop="20190709050000 -0300" channel="Lifetime">
+    <title lang="pt">Project Runway Jr</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709050000 -0300" stop="20190709060000 -0300" channel="Lifetime">
+    <title lang="pt">Dance Moms</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709060000 -0300" stop="20190709065000 -0300" channel="Lifetime">
+    <title lang="pt">Dance Moms</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709065000 -0300" stop="20190709074000 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709074000 -0300" stop="20190709083000 -0300" channel="Lifetime">
+    <title lang="pt">Project Runway Jr</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709083000 -0300" stop="20190709092000 -0300" channel="Lifetime">
+    <title lang="pt">Bring It!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709092000 -0300" stop="20190709101000 -0300" channel="Lifetime">
+    <title lang="pt">Dance Moms</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709101000 -0300" stop="20190709110500 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709110500 -0300" stop="20190709120000 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709120000 -0300" stop="20190709134000 -0300" channel="Lifetime">
+    <title lang="pt">Um Passado De Terror</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709134000 -0300" stop="20190709143000 -0300" channel="Lifetime">
+    <title lang="pt">Project Runway Jr</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709143000 -0300" stop="20190709152500 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709152500 -0300" stop="20190709161500 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709161500 -0300" stop="20190709170500 -0300" channel="Lifetime">
+    <title lang="pt">Bring It!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709170500 -0300" stop="20190709180000 -0300" channel="Lifetime">
+    <title lang="pt">Dance Moms</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709180000 -0300" stop="20190709190000 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709190000 -0300" stop="20190709195000 -0300" channel="Lifetime">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709195000 -0300" stop="20190709204500 -0300" channel="Lifetime">
+    <title lang="pt">Casamento à Primeira Vista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709204500 -0300" stop="20190709222000 -0300" channel="Lifetime">
+    <title lang="pt">Um Passado De Terror</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190709222000 -0300" stop="20190710000000 -0300" channel="Lifetime">
+    <title lang="pt">Casa de Pesadelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
   </programme>
 </tv>

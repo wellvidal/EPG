@@ -141,8 +141,8 @@
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Globo">
-    <display-name lang="pt">Globo</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <display-name lang="pt">Globo RJ</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Mais Globosat">
     <display-name lang="pt">+Globosat</display-name>
@@ -156,13 +156,13 @@
     <display-name lang="pt">GNT</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="H2 HD">
-    <display-name lang="pt">H2 HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO">
     <display-name lang="pt">HBO</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO 2">
     <display-name lang="pt">HBO 2</display-name>
@@ -172,9 +172,9 @@
     <display-name lang="pt">HBO Plus</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="HBO Plus*e">
-    <display-name lang="pt">HBO Plus*e</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="HBO Plus *e">
+    <display-name lang="pt">HBO Plus *e</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO Family">
     <display-name lang="pt">HBO Family</display-name>
@@ -185,8 +185,8 @@
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="The History Channel">
-    <display-name lang="pt">History</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <display-name lang="pt">History HD</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="ID - Investigação Discovery">
     <display-name lang="pt">ID</display-name>
@@ -376,25 +376,17 @@
     <display-name lang="pt">Tooncast</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="TruTV">
-    <display-name lang="pt">TruTV</display-name>
+  <channel id="Aparecida">
+    <display-name lang="pt">TV Aparecida</display-name>
     <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Tv Aparecida">
-    <display-name lang="pt">Tv Aparecida</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Cultura">
-    <display-name lang="pt">TV Cultura</display-name>
-    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="TV Brasil">
     <display-name lang="pt">TV Brasil</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Câmara">
     <display-name lang="pt">TV Câmara</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Rá Tim Bum">
     <display-name lang="pt">TV Rá Tim Bum</display-name>
@@ -5409,284 +5401,6 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190711000000 -0300" stop="20190711003000 -0300" channel="Disney Channel">
-    <title lang="pt">A Casa da Raven</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711003000 -0300" stop="20190711023000 -0300" channel="Disney Channel">
-    <title lang="pt">Radio Rebel</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711023000 -0300" stop="20190711030000 -0300" channel="Disney Channel">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711030000 -0300" stop="20190711033000 -0300" channel="Disney Channel">
-    <title lang="pt">Operação Big Hero</title>
-    <sub-title lang="pt">A Série</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711033000 -0300" stop="20190711034500 -0300" channel="Disney Channel">
-    <title lang="pt">Star vs. as Forças do Mal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711034500 -0300" stop="20190711040000 -0300" channel="Disney Channel">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711040000 -0300" stop="20190711043000 -0300" channel="Disney Channel">
-    <title lang="pt">Ducktales</title>
-    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711043000 -0300" stop="20190711050000 -0300" channel="Disney Channel">
-    <title lang="pt">Enrolados Outra Vez</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711050000 -0300" stop="20190711053000 -0300" channel="Disney Channel">
-    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711053000 -0300" stop="20190711060000 -0300" channel="Disney Channel">
-    <title lang="pt">Elena de Avalor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711060000 -0300" stop="20190711063000 -0300" channel="Disney Channel">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711063000 -0300" stop="20190711070000 -0300" channel="Disney Channel">
-    <title lang="pt">Ducktales</title>
-    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711070000 -0300" stop="20190711073000 -0300" channel="Disney Channel">
-    <title lang="pt">Princesinha Sofia: As Ilhas Místicas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711073000 -0300" stop="20190711074500 -0300" channel="Disney Channel">
-    <title lang="pt">Doutora Brinquedos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711074500 -0300" stop="20190711080000 -0300" channel="Disney Channel">
-    <title lang="pt">Vampirina</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711080000 -0300" stop="20190711083000 -0300" channel="Disney Channel">
-    <title lang="pt">Mickey</title>
-    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711083000 -0300" stop="20190711090000 -0300" channel="Disney Channel">
-    <title lang="pt">A Guarda do Leão</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711090000 -0300" stop="20190711091500 -0300" channel="Disney Channel">
-    <title lang="pt">Vá Embora, Unicórnio!</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711091500 -0300" stop="20190711093000 -0300" channel="Disney Channel">
-    <title lang="pt">Star vs. as Forças do Mal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711093000 -0300" stop="20190711113000 -0300" channel="Disney Channel">
-    <title lang="pt">Cinderela 3</title>
-    <sub-title lang="pt">Uma Volta no Tempo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711113000 -0300" stop="20190711114500 -0300" channel="Disney Channel">
-    <title lang="pt">Rua Dálmatas 101</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711114500 -0300" stop="20190711120000 -0300" channel="Disney Channel">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711120000 -0300" stop="20190711121500 -0300" channel="Disney Channel">
-    <title lang="pt">Cupcake &amp; Dino</title>
-    <sub-title lang="pt">Serviços Gerais</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711121500 -0300" stop="20190711123000 -0300" channel="Disney Channel">
-    <title lang="pt">Boris e Rufus</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711123000 -0300" stop="20190711130000 -0300" channel="Disney Channel">
-    <title lang="pt">Juacas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711130000 -0300" stop="20190711133000 -0300" channel="Disney Channel">
-    <title lang="pt">Jessie</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711133000 -0300" stop="20190711140000 -0300" channel="Disney Channel">
-    <title lang="pt">Coop e Cami</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711140000 -0300" stop="20190711144000 -0300" channel="Disney Channel">
-    <title lang="pt">Disney Bia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711144000 -0300" stop="20190711150000 -0300" channel="Disney Channel">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711150000 -0300" stop="20190711153000 -0300" channel="Disney Channel">
-    <title lang="pt">A Irmã do Meio</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711153000 -0300" stop="20190711160000 -0300" channel="Disney Channel">
-    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711160000 -0300" stop="20190711161500 -0300" channel="Disney Channel">
-    <title lang="pt">Rua Dálmatas 101</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711161500 -0300" stop="20190711163000 -0300" channel="Disney Channel">
-    <title lang="pt">Vá Embora, Unicórnio!</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711163000 -0300" stop="20190711170000 -0300" channel="Disney Channel">
-    <title lang="pt">Operação Big Hero</title>
-    <sub-title lang="pt">A Série</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711170000 -0300" stop="20190711173000 -0300" channel="Disney Channel">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711173000 -0300" stop="20190711180000 -0300" channel="Disney Channel">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711180000 -0300" stop="20190711183000 -0300" channel="Disney Channel">
-    <title lang="pt">Ducktales</title>
-    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711183000 -0300" stop="20190711190000 -0300" channel="Disney Channel">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711190000 -0300" stop="20190711194500 -0300" channel="Disney Channel">
-    <title lang="pt">Disney Bia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711194500 -0300" stop="20190711201500 -0300" channel="Disney Channel">
-    <title lang="pt">Disney Bia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711201500 -0300" stop="20190711203000 -0300" channel="Disney Channel">
-    <title lang="pt">Star vs. as Forças do Mal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711203000 -0300" stop="20190711223000 -0300" channel="Disney Channel">
-    <title lang="pt">Bola na Rede</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711223000 -0300" stop="20190711230000 -0300" channel="Disney Channel">
-    <title lang="pt">Hannah Montana</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711230000 -0300" stop="20190711233000 -0300" channel="Disney Channel">
-    <title lang="pt">A Irmã do Meio</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190711233000 -0300" stop="20190712000000 -0300" channel="Disney Channel">
-    <title lang="pt">Bizaardvark</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
   <programme start="20190711000000 -0300" stop="20190711013000 -0300" channel="Disney JR">
     <title lang="pt">A Guarda do Leão</title>
     <star-rating>
@@ -8328,6 +8042,163 @@
       <value>1.0</value>
     </star-rating>
   </programme>
+  <programme start="20190711000000 -0300" stop="20190711003000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711003000 -0300" stop="20190711010000 -0300" channel="Globo">
+    <title lang="pt">Entre Aspas</title>
+    <desc lang="pt">Entrevistados de opiniões diferentes e as diversas visões na sociedade que vão da política ao comportamento, da cultura às questões jurídicas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711010000 -0300" stop="20190711013000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 01h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711013000 -0300" stop="20190711030000 -0300" channel="Globo">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711030000 -0300" stop="20190711030500 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 03h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711030500 -0300" stop="20190711033000 -0300" channel="Globo">
+    <title lang="pt">Em Foco Com Andréia Sadi</title>
+    <desc lang="pt">A repórter entrevista personagens que estão no centro do poder sobre as histórias que vão além do dia-a-dia do noticiário. Um espaço aberto para contar o lado b de quem está em evidência no cenário político do país(n)</desc>
+    <credits>
+      <actor>Andréia Sadi</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711033000 -0300" stop="20190711040000 -0300" channel="Globo">
+    <title lang="pt">Globonews Em Movimento</title>
+    <desc lang="pt">A série EM MOVIMENTO tem 12 episódios semanais e estreia em 7 de agosto. A GloboNews quer discutir problemas e soluções na questão da mobilidade urbana em 7 capitais do Brasil e em Londres, Nova York e Tóquio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711040000 -0300" stop="20190711040500 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 04h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711040500 -0300" stop="20190711050000 -0300" channel="Globo">
+    <title lang="pt">Central Globonews</title>
+    <desc lang="pt">Direto de Brasília, o time de comentaristas da GloboNews se reúne para debater os fatos mais relevantes da política brasileira. Um programa semanal para explicar os rumos do país(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711050000 -0300" stop="20190711060000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711060000 -0300" stop="20190711090000 -0300" channel="Globo">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711090000 -0300" stop="20190711100000 -0300" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711100000 -0300" stop="20190711130000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711130000 -0300" stop="20190711160000 -0300" channel="Globo">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711160000 -0300" stop="20190711180000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711180000 -0300" stop="20190711200000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711200000 -0300" stop="20190711213000 -0300" channel="Globo">
+    <title lang="pt">GloboNews em Pauta - Vivo</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711213000 -0300" stop="20190711220000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+    <desc lang="pt">Discussão dos principais assuntos da economia e da política e como eles afetam o país. Também trata de questões ambientais e da história do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711220000 -0300" stop="20190711230000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711230000 -0300" stop="20190711233000 -0300" channel="Globo">
+    <title lang="pt">Diálogos com Mario Sergio Conti - Ao Vivo</title>
+    <desc lang="pt">Um novo programa de entrevistas, ao vivo, com um jornalista sem meias palavras que vai fazer as perguntas que todos querem fazer(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711233000 -0300" stop="20190712001500 -0300" channel="Globo">
+    <title lang="pt">Sem Fronteiras</title>
+    <desc lang="pt">O Sem Fronteiras combina reportagem e análise para mostrar o impacto dos principais assuntos internacionais na vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
   <programme start="20190711001500 -0300" stop="20190711013000 -0300" channel="Mais Globosat">
     <title lang="pt">Velvet: Costuras do Amor</title>
     <star-rating>
@@ -9175,6 +9046,556 @@
       <value>1.0</value>
     </star-rating>
   </programme>
+  <programme start="20190711000500 -0300" stop="20190711005400 -0300" channel="H2">
+    <title lang="pt">Mundos Perdidos: Ivan, O Terrível</title>
+    <desc lang="pt">Ivan, o Terrível foi o primeiro czar da Rússia. Viveu uma brutal e indescritível existência. Conhecido por seu sadismo, Ivan foi o criador da polícia secreta da Rússia(n)</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711005400 -0300" stop="20190711013800 -0300" channel="H2">
+    <title lang="pt">O Ouro Perdido da Segunda Guerra Mundial: Morte Na Montanha</title>
+    <desc lang="pt">Graças a uma testemunha chave, John e sua equipe chegam às Filipinas, onde acredita-se que o General Yamashita escondeu o seu imenso tesouro(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711013800 -0300" stop="20190711022400 -0300" channel="H2">
+    <title lang="pt">Tesouro Perdido dos Templários: A Cruz Flamejante</title>
+    <desc lang="pt">Barry chega a uma ilha misteriosa, buscando um dos maiores tesouros templários, enquanto Scott, na Índia, descobre algo incrível(n)</desc>
+    <credits>
+      <director>Joe Keenan</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711022400 -0300" stop="20190711031200 -0300" channel="H2">
+    <title lang="pt">Luta Jurássica: A Batalha mais Sangrenta</title>
+    <desc lang="pt">O Alossauro e o Ceratosauro se enfrentam em um bebedouro, uma cavidade pré-histórica com água, no que seria uma das lutas mais sangrentas registradas na história paleontológica(n)</desc>
+    <date>2008</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711031200 -0300" stop="20190711035900 -0300" channel="H2">
+    <title lang="pt">Segredos De Estado: Operações Especiais</title>
+    <desc lang="pt">Este episódio revela as atividades secretas e o treinamento avançado das forças especiais dos Estados Unidos, que têm que realizar as missões de inteligência mais perigosas do mundo(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711035900 -0300" stop="20190711044300 -0300" channel="H2">
+    <title lang="pt">Em Busca de Gigantes: Hora da Verdade</title>
+    <desc lang="pt">Juntamente com uma equipe de arqueólogos, os irmãos Vieira descobrem novas evidências sobre o Misterioso Túnel de Goshen, e Jim investiga um relato sobre gigantes diferente de qualquer outro que já viu(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711044300 -0300" stop="20190711053100 -0300" channel="H2">
+    <title lang="pt">Roma - Ascensão e Queda de um Império: O Último Imperador</title>
+    <desc lang="pt">Em meados do século 5, Roma entra em guerra contra os Hunos. Um romano, Flavio Orestes, decide se unir à corte de Átila para conhecer sua estratégia e depois voltar a Roma para recuperar definitivamente o Império(n)</desc>
+    <date>2008</date>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711053100 -0300" stop="20190711060000 -0300" channel="H2">
+    <title lang="pt">Colecionadores: HQs</title>
+    <desc lang="pt">Esses colecionadores têm revistas que valem até U$ 5.000,00(n)</desc>
+    <credits>
+      <director>Cláudio Fagundes</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711060000 -0300" stop="20190711064700 -0300" channel="H2">
+    <title lang="pt">Tesouro Perdido dos Templários: A Cruz Flamejante</title>
+    <desc lang="pt">Barry chega a uma ilha misteriosa, buscando um dos maiores tesouros templários, enquanto Scott, na Índia, descobre algo incrível(n)</desc>
+    <credits>
+      <director>Joe Keenan</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711064700 -0300" stop="20190711071300 -0300" channel="H2">
+    <title lang="pt">Planeta Inovação: Thomas Edson e As Tatuagens</title>
+    <desc lang="pt">Cabelo que muda de cor com o vento, a contribuição de Edison para as tatuagens e esculturas de movimentos hipnóticos(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711071300 -0300" stop="20190711080100 -0300" channel="H2">
+    <title lang="pt">Segredos De Estado: Operações Especiais</title>
+    <desc lang="pt">Este episódio revela as atividades secretas e o treinamento avançado das forças especiais dos Estados Unidos, que têm que realizar as missões de inteligência mais perigosas do mundo(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711080100 -0300" stop="20190711085800 -0300" channel="H2">
+    <title lang="pt">A História da Europa: Entre o Céu e o Inferno</title>
+    <desc lang="pt">O Cristianismo é a base da identidade europeia, mas durante séculos essa região foi dominada pelo judaísmo e pelos muçulmanos(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711085800 -0300" stop="20190711092400 -0300" channel="H2">
+    <title lang="pt">Planeta Inovação: Thomas Edson e As Tatuagens</title>
+    <desc lang="pt">Cabelo que muda de cor com o vento, a contribuição de Edison para as tatuagens e esculturas de movimentos hipnóticos(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711092400 -0300" stop="20190711101400 -0300" channel="H2">
+    <title lang="pt">Mundos Perdidos: Ivan, O Terrível</title>
+    <desc lang="pt">Ivan, o Terrível foi o primeiro czar da Rússia. Viveu uma brutal e indescritível existência. Conhecido por seu sadismo, Ivan foi o criador da polícia secreta da Rússia(n)</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711101400 -0300" stop="20190711110400 -0300" channel="H2">
+    <title lang="pt">Roma - Ascensão e Queda de um Império: O Último Imperador</title>
+    <desc lang="pt">Em meados do século 5, Roma entra em guerra contra os Hunos. Um romano, Flavio Orestes, decide se unir à corte de Átila para conhecer sua estratégia e depois voltar a Roma para recuperar definitivamente o Império(n)</desc>
+    <date>2008</date>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711110400 -0300" stop="20190711115000 -0300" channel="H2">
+    <title lang="pt">Tesouro Perdido dos Templários: A Cruz Flamejante</title>
+    <desc lang="pt">Barry chega a uma ilha misteriosa, buscando um dos maiores tesouros templários, enquanto Scott, na Índia, descobre algo incrível(n)</desc>
+    <credits>
+      <director>Joe Keenan</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711115000 -0300" stop="20190711123800 -0300" channel="H2">
+    <title lang="pt">Luta Jurássica: A Batalha mais Sangrenta</title>
+    <desc lang="pt">O Alossauro e o Ceratosauro se enfrentam em um bebedouro, uma cavidade pré-histórica com água, no que seria uma das lutas mais sangrentas registradas na história paleontológica(n)</desc>
+    <date>2008</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711123800 -0300" stop="20190711132500 -0300" channel="H2">
+    <title lang="pt">Segredos De Estado: Operações Especiais</title>
+    <desc lang="pt">Este episódio revela as atividades secretas e o treinamento avançado das forças especiais dos Estados Unidos, que têm que realizar as missões de inteligência mais perigosas do mundo(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711132500 -0300" stop="20190711141400 -0300" channel="H2">
+    <title lang="pt">Roma - Ascensão e Queda de um Império: O Último Imperador</title>
+    <desc lang="pt">Em meados do século 5, Roma entra em guerra contra os Hunos. Um romano, Flavio Orestes, decide se unir à corte de Átila para conhecer sua estratégia e depois voltar a Roma para recuperar definitivamente o Império(n)</desc>
+    <date>2008</date>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711141400 -0300" stop="20190711145800 -0300" channel="H2">
+    <title lang="pt">Em Busca de Gigantes: Hora da Verdade</title>
+    <desc lang="pt">Juntamente com uma equipe de arqueólogos, os irmãos Vieira descobrem novas evidências sobre o Misterioso Túnel de Goshen, e Jim investiga um relato sobre gigantes diferente de qualquer outro que já viu(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711145800 -0300" stop="20190711154700 -0300" channel="H2">
+    <title lang="pt">Mundos Perdidos: Ivan, O Terrível</title>
+    <desc lang="pt">Ivan, o Terrível foi o primeiro czar da Rússia. Viveu uma brutal e indescritível existência. Conhecido por seu sadismo, Ivan foi o criador da polícia secreta da Rússia(n)</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711154700 -0300" stop="20190711161200 -0300" channel="H2">
+    <title lang="pt">Planeta Inovação: Calçado Expansível</title>
+    <desc lang="pt">Sapatos que aumentam de tamanho, tendas para árvores, cartões dobráveis e como a energia chegou aos nossos lares(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711161200 -0300" stop="20190711170000 -0300" channel="H2">
+    <title lang="pt">Roma - Ascensão e Queda de Um Império: A Primeira Guerra Contra Os</title>
+    <desc lang="pt">No ano 113 a.C. Roma é uma República, um pequeno império que se estende à beira do Mediterrâneo. Embora seja uma democracia em nome e espírito, um homem tem que ser rico e da nobreza para aspirar ao poder(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711170000 -0300" stop="20190711174400 -0300" channel="H2">
+    <title lang="pt">Em Busca de Gigantes: Hora da Verdade</title>
+    <desc lang="pt">Juntamente com uma equipe de arqueólogos, os irmãos Vieira descobrem novas evidências sobre o Misterioso Túnel de Goshen, e Jim investiga um relato sobre gigantes diferente de qualquer outro que já viu(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711174400 -0300" stop="20190711182800 -0300" channel="H2">
+    <title lang="pt">O Ouro Perdido da Segunda Guerra Mundial: Morte Na Montanha</title>
+    <desc lang="pt">Graças a uma testemunha chave, John e sua equipe chegam às Filipinas, onde acredita-se que o General Yamashita escondeu o seu imenso tesouro(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711182800 -0300" stop="20190711192500 -0300" channel="H2">
+    <title lang="pt">A História da Europa: Entre o Céu e o Inferno</title>
+    <desc lang="pt">O Cristianismo é a base da identidade europeia, mas durante séculos essa região foi dominada pelo judaísmo e pelos muçulmanos(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711192500 -0300" stop="20190711201400 -0300" channel="H2">
+    <title lang="pt">Mundos Perdidos: O Médico e o Monstro</title>
+    <desc lang="pt">Um dos romances de terror mais famosos do mundo é(n)</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711201400 -0300" stop="20190711210000 -0300" channel="H2">
+    <title lang="pt">10 Coisas Que Você Precisa Saber: Texas</title>
+    <desc lang="pt">Vamos acompanhar Henry numa empolgante aventura e conhecer o Texas como nunca visto antes, com eventos macabros, animais exóticos, piratas, desastres naturais... e uma arma política secreta quase inconcebível(n)</desc>
+    <credits>
+      <director>Mark Cole</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711210000 -0300" stop="20190711214500 -0300" channel="H2">
+    <title lang="pt">Legados da Antiguidade: Armas Supremas</title>
+    <desc lang="pt">Consideramos as armas de destruição em massa como algo moderno, mas nós revelaremos que os antigos também criaram armas aterrorizantes, algumas até mais destrutivas do que as fabricadas atualmente(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711214500 -0300" stop="20190711223200 -0300" channel="H2">
+    <title lang="pt">Projetos Incríveis: Cidades Submersas</title>
+    <desc lang="pt">Obras de engenharia buscam neutralizar os efeitos nocivos da natureza em cidades como Veneza, Tóquio ou Nova York(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711223200 -0300" stop="20190711231700 -0300" channel="H2">
+    <title lang="pt">Desvendando Enigmas: Mundo Estranho</title>
+    <desc lang="pt">Uma tentativa de capturar o misterioso som dos(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711231700 -0300" stop="20190712000500 -0300" channel="H2">
+    <title lang="pt">Segredos De Estado: O Pentágono</title>
+    <desc lang="pt">Vamos penetrar no quartel-general do Departamento de Defesa para explorar as operações complexas e os segredos de negócios no maior edifício do mundo(n)</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711002500 -0300" stop="20190711013000 -0300" channel="HBO">
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Rue tenta ficar limpa para Jules e acompanha Gia para o carnaval. Jules encontra Cal com sua família. Cassie e Maddy, chateadas com seus namorados, decidem se divertir juntas(n)</desc>
+    <credits>
+      <director>Sam Levinson</director>
+      <actor>Zendaya</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Nika King</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190711013000 -0300" stop="20190711030500 -0300" channel="HBO">
+    <title lang="pt">A Hora do Pesadelo 6 - Pesadelo Final - A Morte de Freddy</title>
+    <desc lang="pt">Freddy Krueger acabou com a vida de todas as crianças da Rua Elm, mas ele não está satisfeito. Agora vai até sua filha para matar o último adolescente sobrevivente, mas ela se dá conta dos poderes demoníacos do pai(n)</desc>
+    <credits>
+      <director>Rachel Talalay</director>
+      <actor>Robert Englund</actor>
+      <actor>Lisa Zane</actor>
+      <actor>Shon Greenblatt</actor>
+      <actor>Lezlie Deane</actor>
+      <actor>Ricky Dean Logan</actor>
+      <actor>Breckin Meyer</actor>
+      <actor>Yaphet Kotto</actor>
+      <actor>Roseanne</actor>
+      <actor>Tom Arnold</actor>
+      <actor>Elinor Donahue</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Cassandra Rachel Friel</actor>
+      <actor>David Dunard</actor>
+      <actor>Marilyn Rockafellow</actor>
+      <actor>Virginia Peters</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711030500 -0300" stop="20190711045500 -0300" channel="HBO">
+    <title lang="pt">The Spirit - O Filme</title>
+    <desc lang="pt">Danny Colt é um detetive assassinado que volta à vida como um misterioso mascarado que protege os habitantes de Central City. Colt persegue o vilão Octopus e em meio às sombras, fará de tudo para defender seu único amor(n)</desc>
+    <credits>
+      <director>Frank Miller</director>
+      <actor>Gabriel Macht</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Jaime King</actor>
+      <actor>Dan Gerrity</actor>
+      <actor>Arthur the Cat</actor>
+      <actor>Kimberly Cox</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711045500 -0300" stop="20190711064000 -0300" channel="HBO">
+    <title lang="pt">John Mccain: Por Quem os Sinos Dobram</title>
+    <desc lang="pt">Um luminoso perfil do Senador pelo estado do Arizona John McCain, cuja recente batalha contra o câncer resume a coragem e força moral de um homem que passou mais de cinco anos como prisioneiro de guerra no Vietnã(n)</desc>
+    <credits>
+      <director>Peter W. Kunhardt</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711064000 -0300" stop="20190711083000 -0300" channel="HBO">
+    <title lang="pt">Professor Marston e as Mulheres-Maravilhas</title>
+    <desc lang="pt">A vida de Wiliam Marston, psicólogo e inventor de Harvard, que ajudou a tornar real o Detector de Mentiras e que também criou a Mulher-Maravilha, personagem dos quadrinhos, em 1941(n)</desc>
+    <credits>
+      <director>Angela Robinson</director>
+      <actor>Luke Evans</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Bella Heathcote</actor>
+      <actor>Connie Britton</actor>
+      <actor>Monica Giordano</actor>
+      <actor>JJ Feild</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711083000 -0300" stop="20190711104500 -0300" channel="HBO">
+    <title lang="pt">Espanglês</title>
+    <desc lang="pt">Flor muda para os EUA. Após seis anos convivendo só com latinos, ela não sabe nada de inglês. Quando vai trabalhar como doméstica para uma rica família americana, tem de superar mais do que as barreiras do idioma(n)</desc>
+    <credits>
+      <director>James L. Brooks</director>
+      <actor>Adam Sandler</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Paz Vega</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Shelbie Bruce</actor>
+      <actor>Sarah Steele</actor>
+      <actor>Ian Hyland</actor>
+      <actor>Victoria Luna</actor>
+      <actor>Ricardo Molina</actor>
+      <actor>Brenda Canela</actor>
+      <actor>Eddy Martin</actor>
+      <actor>Jamie Kaler</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711104500 -0300" stop="20190711123000 -0300" channel="HBO">
+    <title lang="pt">A Feiticeira</title>
+    <desc lang="pt">Isabel é uma bruxa bondosa que renega seus poderes. Quando Jack a conhece, tenta convencê-la a ser atriz. Ela, então, vê a chance de viver uma vida normal(n)</desc>
+    <credits>
+      <director>Nora Ephron</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Shirley MacLaine</actor>
+      <actor>Michael Caine</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711123000 -0300" stop="20190711145000 -0300" channel="HBO">
+    <title lang="pt">Todo Dinheiro Do Mundo</title>
+    <desc lang="pt">Após o sequestro do filho, Gail Harris (Michelle Williams) apela a seu ex-sogro, o magnata do petróleo J. Paul Getty (Christopher Plummer), que pague pelo resgate do neto(n)</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Michelle Williams</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Romain Duris</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Charlie Plummer</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711145000 -0300" stop="20190711164000 -0300" channel="HBO">
+    <title lang="pt">Invasores</title>
+    <desc lang="pt">Uma misteriosa epidemia vem alterando o comportamento dos humanos. Uma psiquiatra de Washington descobre que essa epidemia é de origem extraterrestre, e que precisa proteger o filho, que poderá ser vital para impedir uma invasão(n)</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jackson Bond</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Josef Sommer</actor>
+      <actor>Eric Benjamin</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711164000 -0300" stop="20190711184000 -0300" channel="HBO">
+    <title lang="pt">Megatubarão</title>
+    <desc lang="pt">Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão conhecido como Megalodon(n)</desc>
+    <credits>
+      <director>Jon Turteltaub</director>
+      <actor>Jason Statham</actor>
+      <actor>Bingbing Li</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Winston Chao</actor>
+      <actor>Shuya Sophia Cai</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711184000 -0300" stop="20190711194000 -0300" channel="HBO">
+    <title lang="pt">Years And Years</title>
+    <desc lang="pt">O mundo ainda está se recuperando dos eventos de Hong Sha. Daniel tenta construir uma nova vida com Viktor, mas seu ex-marido Ralph se vinga terrivelmente(n)</desc>
+    <credits>
+      <director>Simon Cellan Jones</director>
+      <actor>Emma Thompson</actor>
+      <actor>Jade Alleyne</actor>
+      <actor>Maxim Baldry</actor>
+      <actor>Sharon Duncan-Brewster</actor>
+      <actor>Jessica Hynes</actor>
+      <actor>Rory Kinnear</actor>
+      <actor>Ruth Madeley</actor>
+      <actor>Glen McReady</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711194000 -0300" stop="20190711220500 -0300" channel="HBO">
+    <title lang="pt">Homens de Coragem</title>
+    <desc lang="pt">Um incêndio gigantesco na região do Arizona levou a um verdadeiro combate com os mais experientes bombeiros da região(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Josh Brolin</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Taylor Kitsch</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711220500 -0300" stop="20190711230000 -0300" channel="HBO">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Renata lida com as consequências dos problemas legais de Gordon e tenta ajudar Celeste. Bonnie revive memórias dolorosas de sua mãe(n)</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711230000 -0300" stop="20190712000500 -0300" channel="HBO">
+    <title lang="pt">O Jardim de Bronze</title>
+    <desc lang="pt">Acompanha o arquiteto argentino Fabián Danubio e sua luta para reencontrar sua filha, que desapareceu de forma inexplicável e sem deixar rastro(n)</desc>
+    <credits>
+      <actor>Norma Aleandro</actor>
+      <actor>Daniel Fanego</actor>
+      <actor>Joaquín Furriel</actor>
+      <actor>Luis Luque</actor>
+      <actor>Mario Pasik</actor>
+      <actor>Julieta Zylberberg</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
   <programme start="20190711000500 -0300" stop="20190711020500 -0300" channel="HBO 2">
     <title lang="pt">Logan Lucky: Roubo em Família</title>
     <star-rating>
@@ -9354,6 +9775,259 @@
     <star-rating>
       <value>1.0</value>
     </star-rating>
+  </programme>
+  <programme start="20190711000000 -0300" stop="20190711022500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Jogador Nº 1</title>
+    <desc lang="pt">Num futuro distópico, em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tye Sheridan</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Lena Waithe</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711022500 -0300" stop="20190711040500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Perversas Intenções</title>
+    <desc lang="pt">Sheriff investiga o assassinato de uma estudante da faculdade que estava envolvida na elaboração de um projeto incomum na classe(n)</desc>
+    <credits>
+      <director>Zoe Clarke-Williams</director>
+      <actor>Mia Kirshner</actor>
+      <actor>Meredith Monroe</actor>
+      <actor>Dominique Swain</actor>
+      <actor>Scott Bairstow</actor>
+      <actor>Rachel True</actor>
+      <actor>Taye Diggs</actor>
+      <actor>Glynnis O'Connor</actor>
+      <actor>Joanna Canton</actor>
+      <actor>Eric Michael Cole</actor>
+      <actor>Oliver Hudson</actor>
+      <actor>Dean James</actor>
+      <actor>J. Michael Hunter</actor>
+      <actor>Edmund Kearney</actor>
+      <actor>Don Henderson Baker</actor>
+      <actor>Shawn Michelle Cosby</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190711040500 -0300" stop="20190711054500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Pânico No Lago: O Legado</title>
+    <desc lang="pt">Um grupo de jovens exploradores descobre um lago escondido no Maine, EUA, e decide investigar. Infelizmente, eles não ficarão sozinhos muito tempo, já que o lago é habitado por um crocodilo gigante e faminto(n)</desc>
+    <credits>
+      <director>Darrell Roodt</director>
+      <actor>Tim Rozon</actor>
+      <actor>Katherine Barrell</actor>
+      <actor>Sai Bennett</actor>
+      <actor>Luke Newton</actor>
+      <actor>Craig Stein</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711054500 -0300" stop="20190711073000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Malditas Aranhas</title>
+    <desc lang="pt">Acidente com substâncias químicas transforma aranhazinhas em feras enormes. Sedentas de sangue, atacam habitantes de uma pequena cidade dos EUA(n)</desc>
+    <credits>
+      <director>Ellory Elkayem</director>
+      <actor>David Arquette</actor>
+      <actor>Kari Wuhrer</actor>
+      <actor>Scott Terra</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Doug E. Doug</actor>
+      <actor>Leon Rippy</actor>
+      <actor>Rick Overton</actor>
+      <actor>Matt Czuchry</actor>
+      <actor>Jay Arlen Jones</actor>
+      <actor>Eileen Ryan</actor>
+      <actor>Jane Edith Wilson</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711073000 -0300" stop="20190711091500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Godzilla 2000</title>
+    <desc lang="pt">Nesta versão original japonesa, Godzilla vai enfrentar Orga, criatura alienígena que estava dormindo há mais de 6 mil anos, na Terra(n)</desc>
+    <credits>
+      <director>Takao Okawara</director>
+      <actor>Takehiro Murata</actor>
+      <actor>Naomi Nishida</actor>
+      <actor>Mayu Suzuki</actor>
+      <actor>Takeshi Ôbavashi</actor>
+      <actor>Shirô Namki</actor>
+      <actor>Sakae Kimura</actor>
+      <actor>Bengal</actor>
+      <actor>Hiroshi Abe</actor>
+      <actor>KôiChi Ueda</actor>
+      <actor>Shelley Sweeney</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711091500 -0300" stop="20190711111000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Rampage: Destruição Total</title>
+    <desc lang="pt">Davis Okoye é um primatologista, um homem que compartilha um vínculo com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento(n)</desc>
+    <credits>
+      <director>Brad Peyton</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Malin Akerman</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711111000 -0300" stop="20190711140000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Tróia</title>
+    <desc lang="pt">Tróia volta às telas numa das maiores produções de 2004. Os lendários Aquiles, Paris, Helena e o príncipe Hector viverão a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Wolfgang Petersen</director>
+      <actor>Brad Pitt</actor>
+      <actor>Eric Bana</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Sean Bean</actor>
+      <actor>Brian Cox</actor>
+      <actor>Peter O'Toole</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Julie Christie</actor>
+      <actor>Garreth Hedlund</actor>
+      <actor>Vincent Regan</actor>
+      <actor>James Cosmo</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711140000 -0300" stop="20190711162000 -0300" channel="HBO Plus *e">
+    <title lang="pt">V de Vingança</title>
+    <desc lang="pt">Guerrilheiro das sombras, conhecido apenas comou0027'V'', usa táticas terroristas para lutar contra o totalitarismo na sociedade. Após resgatar uma garota da polícia secreta, ele também descobre que tem a chance de ter uma aliada(n)</desc>
+    <credits>
+      <director>James McTeigue</director>
+      <actor>Natalie Portman</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Stephen Rea</actor>
+      <actor>Stephen Fry</actor>
+      <actor>John Hurt</actor>
+      <actor>Tim Pigott-Smith</actor>
+      <actor>Rupert Graves</actor>
+      <actor>Roger Allam</actor>
+      <actor>Natasha Wightman</actor>
+      <actor>Eddie Marsan</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711162000 -0300" stop="20190711181500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Rampage: Destruição Total</title>
+    <desc lang="pt">Davis Okoye é um primatologista, um homem que compartilha um vínculo com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento(n)</desc>
+    <credits>
+      <director>Brad Peyton</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Malin Akerman</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711181500 -0300" stop="20190711192000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Fora do Armário: A Nova Geração</title>
+    <desc lang="pt">Três jovens transgêneros com diferentes trajetórias - mas o mesmo difícil caminho de aflições e busca de aceitação(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711192000 -0300" stop="20190711202500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Fora do Armário: Filhos</title>
+    <desc lang="pt">Quando resolveu assumir que era lésbica e que amava Eleni - com quem tem um relacionamento que já dura duas décadas -, Suzy teve de enfrentar um duro divórcio e a perda da guarda das filhas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190711202500 -0300" stop="20190711220000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Exorcistas no Vaticano</title>
+    <desc lang="pt">Angela se vê obrigada a ir para o hospital após cortar um dedo e, a partir de então, eventos muito estranhos começam a acontecer em sua vida(n)</desc>
+    <credits>
+      <director>Mark Neveldine</director>
+      <actor>Djimon Hounsou</actor>
+      <actor>Olivia Taylor Dudley</actor>
+      <actor>Alison Lohman</actor>
+      <actor>Dougray Scott</actor>
+      <actor>Michael Paré</actor>
+      <actor>Kathleen Robertson</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190711220000 -0300" stop="20190711234000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Nunca Diga Seu Nome</title>
+    <desc lang="pt">Três estudantes universitários se mudam para uma velha casa onde, sem querer, liberam uma entidade maligna(n)</desc>
+    <credits>
+      <director>Stacy Title</director>
+      <actor>Douglas Smith</actor>
+      <actor>Lucien Laviscount</actor>
+      <actor>Cressida Bonas</actor>
+      <actor>Doug Jones</actor>
+      <actor>Jenna Kanell</actor>
+      <actor>Carrie-Anne Moss</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711234000 -0300" stop="20190712000000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Tróia</title>
+    <desc lang="pt">Tróia volta às telas numa das maiores produções de 2004. Os lendários Aquiles, Paris, Helena e o príncipe Hector viverão a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Wolfgang Petersen</director>
+      <actor>Brad Pitt</actor>
+      <actor>Eric Bana</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Sean Bean</actor>
+      <actor>Brian Cox</actor>
+      <actor>Peter O'Toole</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Julie Christie</actor>
+      <actor>Garreth Hedlund</actor>
+      <actor>Vincent Regan</actor>
+      <actor>James Cosmo</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
   </programme>
   <programme start="20190711004000 -0300" stop="20190711023000 -0300" channel="HBO Family">
     <title lang="pt">Te Amarei Para Sempre</title>
@@ -16031,6 +16705,216 @@
     <star-rating>
       <value>1.0</value>
     </star-rating>
+  </programme>
+  <programme start="20190711010000 -0300" stop="20190711030000 -0300" channel="Aparecida">
+    <title lang="pt">Infomercial - Sono Quality</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711030000 -0300" stop="20190711032500 -0300" channel="Aparecida">
+    <title lang="pt">Telecurso Médio e Fundamental</title>
+    <desc lang="pt">Amplie seus conhecimentos e habilidades com o mais tradicional programa de TV voltado para a educação e qualificação profissional, o Telecurso. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711032500 -0300" stop="20190711035500 -0300" channel="Aparecida">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711035500 -0300" stop="20190711044500 -0300" channel="Aparecida">
+    <title lang="pt">Bem-Vindo, Romeiro</title>
+    <desc lang="pt">José Eymard e Bianca apresentam o universo do romeiro e levam o Santuário Nacional de Aparecida até a sua casa. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711044500 -0300" stop="20190711054500 -0300" channel="Aparecida">
+    <title lang="pt">Terço de Fátima</title>
+    <desc lang="pt">O Terço de Fátima acontece todos os dias e é rezado diretamente da Capelinha das Aparições, que fica junto ao Santuário de Fátima, em Portugal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711054500 -0300" stop="20190711061500 -0300" channel="Aparecida">
+    <title lang="pt">Com a Mãe Aparecida</title>
+    <desc lang="pt">O programa Com a Mãe Aparecida apresentará conteúdo religioso com reflexões, mensagens, agradecimentos e intenções dos devotos de Nossa Senhora, além da Novena de Aparecida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711061500 -0300" stop="20190711064500 -0300" channel="Aparecida">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711064500 -0300" stop="20190711074500 -0300" channel="Aparecida">
+    <title lang="pt">Missa de Aparecida: Capela São José Brasil</title>
+    <desc lang="pt">Acompanhe, ao vivo, a missa de Aparecida e o Devocional, direto da Capela São José. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711074500 -0300" stop="20190711075500 -0300" channel="Aparecida">
+    <title lang="pt">Aparecida Interessa ao Brasil</title>
+    <desc lang="pt">Sob o comando de Daniele Bittencourt, o departamento de jornalismo da TV Aparecida apresenta os principais acontecimentos do maior santuário mariano do mundo e entrevistas com temas especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711075500 -0300" stop="20190711085000 -0300" channel="Aparecida">
+    <title lang="pt">Bem-Vindo, Romeiro</title>
+    <desc lang="pt">José Eymard e Bianca apresentam o universo do romeiro e levam o Santuário Nacional de Aparecida até a sua casa. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711085000 -0300" stop="20190711090000 -0300" channel="Aparecida">
+    <title lang="pt">Ao Redor do Altar - Ao Vivo</title>
+    <desc lang="pt">Ao redor do altar. Coloque suas intenções para a Missa de Aparecida, direto do Santuário Nacional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711090000 -0300" stop="20190711100000 -0300" channel="Aparecida">
+    <title lang="pt">Missa de Aparecida - Santuário Nacional - Ao Vivo</title>
+    <desc lang="pt">Acompanhe a missa de Aparecida, ao vivo, direto do Santuário Nacional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711100000 -0300" stop="20190711104500 -0300" channel="Aparecida">
+    <title lang="pt">Com a Mãe Aparecida: Jornada Bíblica</title>
+    <desc lang="pt">O programa Com a Mãe Aparecida apresentará conteúdo religioso com reflexões, mensagens, agradecimentos e intenções dos devotos de Nossa Senhora, além da Novena de Aparecida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711104500 -0300" stop="20190711111500 -0300" channel="Aparecida">
+    <title lang="pt">Saúde e Fé</title>
+    <desc lang="pt">Os conhecimentos da medicina e a força da espiritualidade em profundo diálogo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711111500 -0300" stop="20190711120000 -0300" channel="Aparecida">
+    <title lang="pt">Kombina</title>
+    <desc lang="pt">Kombina é um programa de artesanato que visa divulgar as artes produzidas pelo país e valorizar o profissional da área. Com Bete Ribeiro e Rogério Chiaravalli(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711120000 -0300" stop="20190711123000 -0300" channel="Aparecida">
+    <title lang="pt">Brasil Esportes - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte você acompanha na programação da TV Aparecida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711123000 -0300" stop="20190711130000 -0300" channel="Aparecida">
+    <title lang="pt">TJ Aparecida - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as principais notícias da igreja, do Brasil e do mundo. Mantenha-se informado através de um jornalismo de qualidade. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711130000 -0300" stop="20190711140000 -0300" channel="Aparecida">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711140000 -0300" stop="20190711150000 -0300" channel="Aparecida">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711150000 -0300" stop="20190711153000 -0300" channel="Aparecida">
+    <title lang="pt">Visita ao Santíssimo e Consagração</title>
+    <desc lang="pt">Assista à visita ao Santíssimo e à Consagração à Nossa Senhora, ao vivo, direto da Basílica Velha. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711153000 -0300" stop="20190711173500 -0300" channel="Aparecida">
+    <title lang="pt">Santa Receita</title>
+    <desc lang="pt">Claudete Troiano recebe convidados especiais e fala sobre saúde, moda, comportamento, artesantos, receitas e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711173500 -0300" stop="20190711175500 -0300" channel="Aparecida">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711175500 -0300" stop="20190711180000 -0300" channel="Aparecida">
+    <title lang="pt">Mensagem de Fé</title>
+    <desc lang="pt">O arcebispo de Aparecida, dom Orlando Brandes, faz uma pequena reflexão da Palavra de Deus Três minutos durante o seu dia para uma profunda reflexão de vida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711180000 -0300" stop="20190711190000 -0300" channel="Aparecida">
+    <title lang="pt">Missa de Aparecida: Basílica Velha</title>
+    <desc lang="pt">Participar de uma missa na histórica Basílica é uma honra e a TV Aparecida leva este momento até você. Missa de Aparecida, ao vivo, direto da Basílica Velha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711190000 -0300" stop="20190711193000 -0300" channel="Aparecida">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711193000 -0300" stop="20190711210000 -0300" channel="Aparecida">
+    <title lang="pt">Bênção da Noite - Ao Vivo</title>
+    <desc lang="pt">O programa Bênção da Noite traz momentos de oração e bênçãos para os telespectadores, neste especial de aniversário da Rádio e TV Aparecida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711210000 -0300" stop="20190711220000 -0300" channel="Aparecida">
+    <title lang="pt">Arquivo A: Arte Sacra</title>
+    <desc lang="pt">Neste programa jornalístico semanal, jornalistas da TV Aparecida apresentam uma variedade de reportagens externas sobre os mais diversos assuntos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711220000 -0300" stop="20190711230000 -0300" channel="Aparecida">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711230000 -0300" stop="20190711231500 -0300" channel="Aparecida">
+    <title lang="pt">Novena</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711231500 -0300" stop="20190711233000 -0300" channel="Aparecida">
+    <title lang="pt">Aparecida Interessa ao Brasil</title>
+    <desc lang="pt">Sob o comando de Daniele Bittencourt, o departamento de jornalismo da TV Aparecida apresenta os principais acontecimentos do maior santuário mariano do mundo e entrevistas com temas especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
   </programme>
   <programme start="20190711000000 -0300" stop="20190711001500 -0300" channel="TV Rá Tim Bum">
     <title lang="pt">Cocoricó</title>

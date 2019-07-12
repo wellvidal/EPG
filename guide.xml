@@ -412,6 +412,38 @@
     <display-name lang="pt">Woohoo</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Playboy TV">
+    <display-name lang="pt">Playboy TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="pt">SEXTREME</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="pt">Venus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">Sexy Hot</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name lang="pt">RedeTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20190712010000 -0300" stop="20190712020000 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <star-rating>
@@ -33014,254 +33046,6 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190712005800 -0300" stop="20190712031000 -0300" channel="Max UP">
-    <title lang="pt">Uma Carta de Amor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712031000 -0300" stop="20190712044200 -0300" channel="Max UP">
-    <title lang="pt">Eu Compartilho. Eu Gosto. Eu Sigo.</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712044200 -0300" stop="20190712064200 -0300" channel="Max UP">
-    <title lang="pt">Minha Vida</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712064200 -0300" stop="20190712082500 -0300" channel="Max UP">
-    <title lang="pt">Expresso Polar</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712082500 -0300" stop="20190712100500 -0300" channel="Max UP">
-    <title lang="pt">Pequenos Segredos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712100500 -0300" stop="20190712120000 -0300" channel="Max UP">
-    <title lang="pt">Golpe Baixo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712120000 -0300" stop="20190712134700 -0300" channel="Max UP">
-    <title lang="pt">Joe Contra o Vulcão</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712134700 -0300" stop="20190712163000 -0300" channel="Max UP">
-    <title lang="pt">Harry Potter e a Câmara Secreta</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712163000 -0300" stop="20190712175200 -0300" channel="Max UP">
-    <title lang="pt">Deus da Carnificina</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712175200 -0300" stop="20190712192700 -0300" channel="Max UP">
-    <title lang="pt">Um Conto Indiano</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712192700 -0300" stop="20190712210000 -0300" channel="Max UP">
-    <title lang="pt">Não Sei Como Ela Consegue</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712210000 -0300" stop="20190712224800 -0300" channel="Max UP">
-    <title lang="pt">Perfeita é a Mãe 2</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712224800 -0300" stop="20190713003000 -0300" channel="Max UP">
-    <title lang="pt">Uma Viagem Muito Louca</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713003000 -0300" stop="20190713020700 -0300" channel="Max UP">
-    <title lang="pt">As Strippers Zumbi</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713020700 -0300" stop="20190713041700 -0300" channel="Max UP">
-    <title lang="pt">Uma Equipe Muito Especial</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713041700 -0300" stop="20190713054400 -0300" channel="Max UP">
-    <title lang="pt">Buddy, Um Amor de Gorila</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713054400 -0300" stop="20190713072000 -0300" channel="Max UP">
-    <title lang="pt">Heróis da Galáxia: Ratchet e Clank</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713072000 -0300" stop="20190713084700 -0300" channel="Max UP">
-    <title lang="pt">O Que Será de Nozes?</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713084700 -0300" stop="20190713102000 -0300" channel="Max UP">
-    <title lang="pt">A História Sem Fim 2</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713102000 -0300" stop="20190713114800 -0300" channel="Max UP">
-    <title lang="pt">Alquimia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713114800 -0300" stop="20190713131500 -0300" channel="Max UP">
-    <title lang="pt">O Mistério De Hailey Dean: Encontro Mortal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713131500 -0300" stop="20190713151200 -0300" channel="Max UP">
-    <title lang="pt">Juntos Pelo Acaso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713151200 -0300" stop="20190713172000 -0300" channel="Max UP">
-    <title lang="pt">A Vida em Preto e Branco</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713172000 -0300" stop="20190713192000 -0300" channel="Max UP">
-    <title lang="pt">Dois Caras Legais</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713192000 -0300" stop="20190713210000 -0300" channel="Max UP">
-    <title lang="pt">Eu, Meu Irmão e Nossa Namorada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713210000 -0300" stop="20190713225800 -0300" channel="Max UP">
-    <title lang="pt">Juntos Pelo Acaso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713225800 -0300" stop="20190714003500 -0300" channel="Max UP">
-    <title lang="pt">Apenas o Começo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714003500 -0300" stop="20190714010500 -0300" channel="Max UP">
-    <title lang="pt">Sex On</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714010500 -0300" stop="20190714014800 -0300" channel="Max UP">
-    <title lang="pt">Sex On</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714014800 -0300" stop="20190714033400 -0300" channel="Max UP">
-    <title lang="pt">Beijos e Tiros</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714033400 -0300" stop="20190714051200 -0300" channel="Max UP">
-    <title lang="pt">Dr. Fantástico</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714051200 -0300" stop="20190714070200 -0300" channel="Max UP">
-    <title lang="pt">Maridos e Esposas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714070200 -0300" stop="20190714083700 -0300" channel="Max UP">
-    <title lang="pt">A Nova Cinderela</title>
-    <sub-title lang="pt">Se o Sapato Servir</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714083700 -0300" stop="20190714103000 -0300" channel="Max UP">
-    <title lang="pt">Asterix E Obelix A Serviço De Sua Majestade</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714103000 -0300" stop="20190714122500 -0300" channel="Max UP">
-    <title lang="pt">Curtindo a Liberdade</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714122500 -0300" stop="20190714141600 -0300" channel="Max UP">
-    <title lang="pt">A Colheita da Fé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714141600 -0300" stop="20190714160000 -0300" channel="Max UP">
-    <title lang="pt">Um Cupido Caiu do Céu</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714160000 -0300" stop="20190714183000 -0300" channel="Max UP">
-    <title lang="pt">Sex And The City</title>
-    <sub-title lang="pt">O Filme</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714183000 -0300" stop="20190714210000 -0300" channel="Max UP">
-    <title lang="pt">Sex And The City 2</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714210000 -0300" stop="20190714224800 -0300" channel="Max UP">
-    <title lang="pt">Onde Está a Vovó?</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714224800 -0300" stop="20190715002800 -0300" channel="Max UP">
-    <title lang="pt">Música, Amigos e Festa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
   <programme start="20190712003000 -0300" stop="20190712023000 -0300" channel="Megapix">
     <title lang="pt">Quebrando Regras 2</title>
     <star-rating>
@@ -40433,269 +40217,6 @@
   </programme>
   <programme start="20190714233000 -0300" stop="20190715000000 -0300" channel="Off">
     <title lang="pt">Brazilian Storm</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712010500 -0300" stop="20190712032000 -0300" channel="Paramount">
-    <title lang="pt">21 Gramas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712032000 -0300" stop="20190712060000 -0300" channel="Paramount">
-    <title lang="pt">Os Insaciáveis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712060000 -0300" stop="20190712063000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712063000 -0300" stop="20190712070000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712070000 -0300" stop="20190712090000 -0300" channel="Paramount">
-    <title lang="pt">O Mundo de Leland</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712090000 -0300" stop="20190712104000 -0300" channel="Paramount">
-    <title lang="pt">Deu a Louca nos Monstros</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712104000 -0300" stop="20190712121500 -0300" channel="Paramount">
-    <title lang="pt">Amostras Grátis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712121500 -0300" stop="20190712135500 -0300" channel="Paramount">
-    <title lang="pt">Uivo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712135500 -0300" stop="20190712155000 -0300" channel="Paramount">
-    <title lang="pt">Mais Forte que o Ódio</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712155000 -0300" stop="20190712180000 -0300" channel="Paramount">
-    <title lang="pt">O Livro de Eli</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712180000 -0300" stop="20190712194500 -0300" channel="Paramount">
-    <title lang="pt">Tiros, Garotas e Trapaças</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712194500 -0300" stop="20190712213000 -0300" channel="Paramount">
-    <title lang="pt">A Pantera Cor-de-Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712213000 -0300" stop="20190712232000 -0300" channel="Paramount">
-    <title lang="pt">O Clube das Desquitadas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190712232000 -0300" stop="20190713002500 -0300" channel="Paramount">
-    <title lang="pt">The Handmaid´s Tale</title>
-    <sub-title lang="pt">O Conto da Aia</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713002500 -0300" stop="20190713021000 -0300" channel="Paramount">
-    <title lang="pt">Um Amor a Cada Esquina</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713021000 -0300" stop="20190713034500 -0300" channel="Paramount">
-    <title lang="pt">Deu a Louca nos Monstros</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713034500 -0300" stop="20190713060000 -0300" channel="Paramount">
-    <title lang="pt">Ritmo de um Sonho</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713060000 -0300" stop="20190713063000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713063000 -0300" stop="20190713070000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713070000 -0300" stop="20190713090000 -0300" channel="Paramount">
-    <title lang="pt">Três Mulheres, Três Amores</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713090000 -0300" stop="20190713102500 -0300" channel="Paramount">
-    <title lang="pt">Amostras Grátis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713102500 -0300" stop="20190713121500 -0300" channel="Paramount">
-    <title lang="pt">Um Amor a Cada Esquina</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713121500 -0300" stop="20190713131500 -0300" channel="Paramount">
-    <title lang="pt">The Handmaid´s Tale</title>
-    <sub-title lang="pt">O Conto da Aia</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713131500 -0300" stop="20190713151500 -0300" channel="Paramount">
-    <title lang="pt">O Clube das Desquitadas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713151500 -0300" stop="20190713170500 -0300" channel="Paramount">
-    <title lang="pt">A Pantera Cor-de-Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713170500 -0300" stop="20190713193000 -0300" channel="Paramount">
-    <title lang="pt">Erin Brockovich</title>
-    <sub-title lang="pt">Uma Mulher de Talento</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713193000 -0300" stop="20190713213000 -0300" channel="Paramount">
-    <title lang="pt">As Férias da Minha Vida</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713213000 -0300" stop="20190713232500 -0300" channel="Paramount">
-    <title lang="pt">Sem Rumo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190713232500 -0300" stop="20190714013500 -0300" channel="Paramount">
-    <title lang="pt">Os Embalos de Sábado à Noite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714013500 -0300" stop="20190714035500 -0300" channel="Paramount">
-    <title lang="pt">A Última Fortaleza</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714035500 -0300" stop="20190714054500 -0300" channel="Paramount">
-    <title lang="pt">Eurotrip</title>
-    <sub-title lang="pt">Passaporte para a Confusão</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714054500 -0300" stop="20190714060000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714060000 -0300" stop="20190714063000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714063000 -0300" stop="20190714070000 -0300" channel="Paramount">
-    <title lang="pt">Bloco Musical</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714070000 -0300" stop="20190714090000 -0300" channel="Paramount">
-    <title lang="pt">Desventuras em Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714090000 -0300" stop="20190714112000 -0300" channel="Paramount">
-    <title lang="pt">Os Embalos de Sábado à Noite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714112000 -0300" stop="20190714135000 -0300" channel="Paramount">
-    <title lang="pt">Erin Brockovich</title>
-    <sub-title lang="pt">Uma Mulher de Talento</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714135000 -0300" stop="20190714155000 -0300" channel="Paramount">
-    <title lang="pt">Sem Rumo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714155000 -0300" stop="20190714175500 -0300" channel="Paramount">
-    <title lang="pt">As Férias da Minha Vida</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714175500 -0300" stop="20190714194000 -0300" channel="Paramount">
-    <title lang="pt">Par Perfeito</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714194000 -0300" stop="20190714213000 -0300" channel="Paramount">
-    <title lang="pt">Coincidências do Amor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714213000 -0300" stop="20190714231500 -0300" channel="Paramount">
-    <title lang="pt">O Último Guarda Costas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190714231500 -0300" stop="20190715013000 -0300" channel="Paramount">
-    <title lang="pt">O Pacificador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -54819,6 +54340,2612 @@
   </programme>
   <programme start="20190714234500 -0300" stop="20190715000000 -0300" channel="Woohoo">
     <title lang="pt">.BR</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712000000 -0300" stop="20190712003000 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712003000 -0300" stop="20190712010000 -0300" channel="Playboy TV">
+    <title lang="pt">Adult Film School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712010000 -0300" stop="20190712013000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712013000 -0300" stop="20190712020300 -0300" channel="Playboy TV">
+    <title lang="pt">Talking Dirty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712020300 -0300" stop="20190712023000 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712023000 -0300" stop="20190712025900 -0300" channel="Playboy TV">
+    <title lang="pt">Playmate Guide To The Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712025900 -0300" stop="20190712033100 -0300" channel="Playboy TV">
+    <title lang="pt">Undercover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712033100 -0300" stop="20190712040200 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712040200 -0300" stop="20190712043500 -0300" channel="Playboy TV">
+    <title lang="pt">Bare Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712043500 -0300" stop="20190712050700 -0300" channel="Playboy TV">
+    <title lang="pt">Gymsutra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712050700 -0300" stop="20190712060000 -0300" channel="Playboy TV">
+    <title lang="pt">7 Lives Xposed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712060000 -0300" stop="20190712062800 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712062800 -0300" stop="20190712065800 -0300" channel="Playboy TV">
+    <title lang="pt">Playmate Guide To The Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712065800 -0300" stop="20190712073000 -0300" channel="Playboy TV">
+    <title lang="pt">Undercover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712073000 -0300" stop="20190712080000 -0300" channel="Playboy TV">
+    <title lang="pt">Casting Online</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712080000 -0300" stop="20190712083000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712083000 -0300" stop="20190712090000 -0300" channel="Playboy TV">
+    <title lang="pt">Badass!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712090000 -0300" stop="20190712093200 -0300" channel="Playboy TV">
+    <title lang="pt">Cougar Club L.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712093200 -0300" stop="20190712100200 -0300" channel="Playboy TV">
+    <title lang="pt">Bare Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712100200 -0300" stop="20190712103200 -0300" channel="Playboy TV">
+    <title lang="pt">Gymsutra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712103200 -0300" stop="20190712110000 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712110000 -0300" stop="20190712113000 -0300" channel="Playboy TV">
+    <title lang="pt">Show Us Your Wits</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712113000 -0300" stop="20190712120000 -0300" channel="Playboy TV">
+    <title lang="pt">Diaries of Passion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712120000 -0300" stop="20190712123000 -0300" channel="Playboy TV">
+    <title lang="pt">Undercover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712123000 -0300" stop="20190712130000 -0300" channel="Playboy TV">
+    <title lang="pt">Playmate Guide To The Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712130000 -0300" stop="20190712133000 -0300" channel="Playboy TV">
+    <title lang="pt">Blonde Obsession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712133000 -0300" stop="20190712140000 -0300" channel="Playboy TV">
+    <title lang="pt">Blonde Obsession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712140000 -0300" stop="20190712143000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712143000 -0300" stop="20190712150000 -0300" channel="Playboy TV">
+    <title lang="pt">Casting Online</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712150000 -0300" stop="20190712153100 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712153100 -0300" stop="20190712160000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexo El Tutorial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712160000 -0300" stop="20190712163000 -0300" channel="Playboy TV">
+    <title lang="pt">Fantasy Flirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712163000 -0300" stop="20190712170200 -0300" channel="Playboy TV">
+    <title lang="pt">Talking Dirty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712170200 -0300" stop="20190712173000 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712173000 -0300" stop="20190712182500 -0300" channel="Playboy TV">
+    <title lang="pt">Sexcape</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712182500 -0300" stop="20190712185700 -0300" channel="Playboy TV">
+    <title lang="pt">Undercover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712185700 -0300" stop="20190712192600 -0300" channel="Playboy TV">
+    <title lang="pt">Playmate Guide To The Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712192600 -0300" stop="20190712195600 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712195600 -0300" stop="20190712202800 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712202800 -0300" stop="20190712210000 -0300" channel="Playboy TV">
+    <title lang="pt">Adult Film School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712210000 -0300" stop="20190712213000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712213000 -0300" stop="20190712215800 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712215800 -0300" stop="20190712223000 -0300" channel="Playboy TV">
+    <title lang="pt">Talking Dirty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712223000 -0300" stop="20190712230000 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy Trip: Patagonia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712230000 -0300" stop="20190712233000 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy's Sextreme Makeover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712233000 -0300" stop="20190713000000 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713000000 -0300" stop="20190713003000 -0300" channel="Playboy TV">
+    <title lang="pt">Cougar Club L.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713003000 -0300" stop="20190713010000 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713010000 -0300" stop="20190713013000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713013000 -0300" stop="20190713020200 -0300" channel="Playboy TV">
+    <title lang="pt">Talking Dirty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713020200 -0300" stop="20190713023000 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713023000 -0300" stop="20190713030000 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy Trip: Patagonia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713030000 -0300" stop="20190713033100 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy's Sextreme Makeover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713033100 -0300" stop="20190713040100 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713040100 -0300" stop="20190713043200 -0300" channel="Playboy TV">
+    <title lang="pt">Fantasy Flirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713043200 -0300" stop="20190713050100 -0300" channel="Playboy TV">
+    <title lang="pt">Sexo El Tutorial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713050100 -0300" stop="20190713053000 -0300" channel="Playboy TV">
+    <title lang="pt">Celebrity Sex Tales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713053000 -0300" stop="20190713060000 -0300" channel="Playboy TV">
+    <title lang="pt">Celebrity Sex Tales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713060000 -0300" stop="20190713063200 -0300" channel="Playboy TV">
+    <title lang="pt">Cougar Club L.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713063200 -0300" stop="20190713070300 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713070300 -0300" stop="20190713073400 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713073400 -0300" stop="20190713080500 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713080500 -0300" stop="20190713083500 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713083500 -0300" stop="20190713090500 -0300" channel="Playboy TV">
+    <title lang="pt">The Campaign</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713090500 -0300" stop="20190713093300 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713093300 -0300" stop="20190713100200 -0300" channel="Playboy TV">
+    <title lang="pt">Playmates!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713100200 -0300" stop="20190713105700 -0300" channel="Playboy TV">
+    <title lang="pt">Sexcape</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713105700 -0300" stop="20190713112900 -0300" channel="Playboy TV">
+    <title lang="pt">Fantasy Flirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713112900 -0300" stop="20190713120000 -0300" channel="Playboy TV">
+    <title lang="pt">Show Us Your Wits</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713120000 -0300" stop="20190713123000 -0300" channel="Playboy TV">
+    <title lang="pt">Diaries of Passion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713123000 -0300" stop="20190713130000 -0300" channel="Playboy TV">
+    <title lang="pt">Gymsutra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713130000 -0300" stop="20190713133000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexo El Tutorial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713133000 -0300" stop="20190713140000 -0300" channel="Playboy TV">
+    <title lang="pt">Blonde Obsession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713140000 -0300" stop="20190713143000 -0300" channel="Playboy TV">
+    <title lang="pt">Blonde Obsession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713143000 -0300" stop="20190713150000 -0300" channel="Playboy TV">
+    <title lang="pt">Celebrity Sex Tales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713150000 -0300" stop="20190713153000 -0300" channel="Playboy TV">
+    <title lang="pt">Celebrity Sex Tales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713153000 -0300" stop="20190713160000 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713160000 -0300" stop="20190713163000 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713163000 -0300" stop="20190713170000 -0300" channel="Playboy TV">
+    <title lang="pt">Bare Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713170000 -0300" stop="20190713173000 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713173000 -0300" stop="20190713180000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713180000 -0300" stop="20190713183000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713183000 -0300" stop="20190713190000 -0300" channel="Playboy TV">
+    <title lang="pt">Cougar Club L.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713190000 -0300" stop="20190713193000 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713193000 -0300" stop="20190713200100 -0300" channel="Playboy TV">
+    <title lang="pt">Talking Dirty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713200100 -0300" stop="20190713203200 -0300" channel="Playboy TV">
+    <title lang="pt">Talking Dirty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713203200 -0300" stop="20190713205900 -0300" channel="Playboy TV">
+    <title lang="pt">The Wild Life: Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713205900 -0300" stop="20190713212700 -0300" channel="Playboy TV">
+    <title lang="pt">The Wild Life: Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713212700 -0300" stop="20190713215800 -0300" channel="Playboy TV">
+    <title lang="pt">Cybergirl Of The Year</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713215800 -0300" stop="20190713222900 -0300" channel="Playboy TV">
+    <title lang="pt">The Campaign</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713222900 -0300" stop="20190713225900 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy's Sextreme Makeover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713225900 -0300" stop="20190713233000 -0300" channel="Playboy TV">
+    <title lang="pt">Undercover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713233000 -0300" stop="20190714000000 -0300" channel="Playboy TV">
+    <title lang="pt">Bare Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714000000 -0300" stop="20190714003000 -0300" channel="Playboy TV">
+    <title lang="pt">Fantasy Flirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714003000 -0300" stop="20190714010000 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714010000 -0300" stop="20190714012900 -0300" channel="Playboy TV">
+    <title lang="pt">Sexo El Tutorial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714012900 -0300" stop="20190714020100 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714020100 -0300" stop="20190714023300 -0300" channel="Playboy TV">
+    <title lang="pt">Adult Film School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714023300 -0300" stop="20190714030400 -0300" channel="Playboy TV">
+    <title lang="pt">Cougar Club L.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714030400 -0300" stop="20190714035800 -0300" channel="Playboy TV">
+    <title lang="pt">Sexcape</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714035800 -0300" stop="20190714042900 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714042900 -0300" stop="20190714045900 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714045900 -0300" stop="20190714053100 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714053100 -0300" stop="20190714060000 -0300" channel="Playboy TV">
+    <title lang="pt">Gymsutra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714060000 -0300" stop="20190714063000 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714063000 -0300" stop="20190714070000 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714070000 -0300" stop="20190714072900 -0300" channel="Playboy TV">
+    <title lang="pt">Celebrity Sex Tales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714072900 -0300" stop="20190714075800 -0300" channel="Playboy TV">
+    <title lang="pt">Celebrity Sex Tales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714075800 -0300" stop="20190714082900 -0300" channel="Playboy TV">
+    <title lang="pt">Cybergirl Of The Year</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714082900 -0300" stop="20190714090000 -0300" channel="Playboy TV">
+    <title lang="pt">Adult Film School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714090000 -0300" stop="20190714093000 -0300" channel="Playboy TV">
+    <title lang="pt">Show Us Your Wits</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714093000 -0300" stop="20190714100000 -0300" channel="Playboy TV">
+    <title lang="pt">Diaries of Passion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714100000 -0300" stop="20190714103100 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714103100 -0300" stop="20190714110100 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy Trip: Patagonia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714110100 -0300" stop="20190714113000 -0300" channel="Playboy TV">
+    <title lang="pt">Playmate Guide To The Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714113000 -0300" stop="20190714120000 -0300" channel="Playboy TV">
+    <title lang="pt">Blonde Obsession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714120000 -0300" stop="20190714123000 -0300" channel="Playboy TV">
+    <title lang="pt">Blonde Obsession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714123000 -0300" stop="20190714130100 -0300" channel="Playboy TV">
+    <title lang="pt">Fantasy Flirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714130100 -0300" stop="20190714132900 -0300" channel="Playboy TV">
+    <title lang="pt">The Wild Life: Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714132900 -0300" stop="20190714135600 -0300" channel="Playboy TV">
+    <title lang="pt">The Wild Life: Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714135600 -0300" stop="20190714142800 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714142800 -0300" stop="20190714150000 -0300" channel="Playboy TV">
+    <title lang="pt">Bare Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714150000 -0300" stop="20190714152900 -0300" channel="Playboy TV">
+    <title lang="pt">Sexo El Tutorial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714152900 -0300" stop="20190714162500 -0300" channel="Playboy TV">
+    <title lang="pt">Sexcape</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714162500 -0300" stop="20190714165800 -0300" channel="Playboy TV">
+    <title lang="pt">Cougar Club L.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714165800 -0300" stop="20190714172900 -0300" channel="Playboy TV">
+    <title lang="pt">Triple Play</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714172900 -0300" stop="20190714180000 -0300" channel="Playboy TV">
+    <title lang="pt">Adult Film School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714180000 -0300" stop="20190714183000 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy's Sextreme Makeover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714183000 -0300" stop="20190714190000 -0300" channel="Playboy TV">
+    <title lang="pt">Undercover</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714190000 -0300" stop="20190714193000 -0300" channel="Playboy TV">
+    <title lang="pt">Gymsutra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714193000 -0300" stop="20190714200000 -0300" channel="Playboy TV">
+    <title lang="pt">Playboy Trip: Patagonia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714200000 -0300" stop="20190714202900 -0300" channel="Playboy TV">
+    <title lang="pt">Playmate Guide To The Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714202900 -0300" stop="20190714205900 -0300" channel="Playboy TV">
+    <title lang="pt">Fantasy Flirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714205900 -0300" stop="20190714213000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714213000 -0300" stop="20190714220000 -0300" channel="Playboy TV">
+    <title lang="pt">Sexomnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714220000 -0300" stop="20190714222900 -0300" channel="Playboy TV">
+    <title lang="pt">Sexo El Tutorial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714222900 -0300" stop="20190714230000 -0300" channel="Playboy TV">
+    <title lang="pt">Bare Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714230000 -0300" stop="20190714233000 -0300" channel="Playboy TV">
+    <title lang="pt">The Life Erotic</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714233000 -0300" stop="20190715000000 -0300" channel="Playboy TV">
+    <title lang="pt">Secretos de Una Obsesion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712001200 -0300" stop="20190712013900 -0300" channel="Sextreme">
+    <title lang="pt">Intercâmbio do Prazer Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712013900 -0300" stop="20190712030400 -0300" channel="Sextreme">
+    <title lang="pt">Triângulo Sexual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712030400 -0300" stop="20190712042800 -0300" channel="Sextreme">
+    <title lang="pt">Prender, Trepar e Gozar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712042800 -0300" stop="20190712055100 -0300" channel="Sextreme">
+    <title lang="pt">Caindo de Boca no Cacetete</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712055100 -0300" stop="20190712061200 -0300" channel="Sextreme">
+    <title lang="pt">Gratidão Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712061200 -0300" stop="20190712064000 -0300" channel="Sextreme">
+    <title lang="pt">1 Festa Milf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712064000 -0300" stop="20190712070000 -0300" channel="Sextreme">
+    <title lang="pt">Orgia de Biquini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712070000 -0300" stop="20190712082700 -0300" channel="Sextreme">
+    <title lang="pt">Ninfetinha Pede Rola 22</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712082700 -0300" stop="20190712095400 -0300" channel="Sextreme">
+    <title lang="pt">Prontos Para Um Trio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712095400 -0300" stop="20190712112100 -0300" channel="Sextreme">
+    <title lang="pt">Intercâmbio do Prazer Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712112100 -0300" stop="20190712124900 -0300" channel="Sextreme">
+    <title lang="pt">Cinquentonas de Luxo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712124900 -0300" stop="20190712141500 -0300" channel="Sextreme">
+    <title lang="pt">1 Pau Para 2 Milfs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712141500 -0300" stop="20190712154100 -0300" channel="Sextreme">
+    <title lang="pt">Malvadas e Insaciáveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712154100 -0300" stop="20190712171100 -0300" channel="Sextreme">
+    <title lang="pt">Elas Se Penetram</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712171100 -0300" stop="20190712183600 -0300" channel="Sextreme">
+    <title lang="pt">Espanholas Dão Gostoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712183600 -0300" stop="20190712200200 -0300" channel="Sextreme">
+    <title lang="pt">1 Pau Para 2 Milfs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712200200 -0300" stop="20190712213000 -0300" channel="Sextreme">
+    <title lang="pt">Ninfetinha Pede Rola 22</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712213000 -0300" stop="20190712225500 -0300" channel="Sextreme">
+    <title lang="pt">Anal Na Banheira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712225500 -0300" stop="20190713002300 -0300" channel="Sextreme">
+    <title lang="pt">Aprendiz do Sexo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713002300 -0300" stop="20190713015100 -0300" channel="Sextreme">
+    <title lang="pt">Cinquentonas de Luxo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713015100 -0300" stop="20190713031700 -0300" channel="Sextreme">
+    <title lang="pt">4 Morenas com Tesão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713031700 -0300" stop="20190713044200 -0300" channel="Sextreme">
+    <title lang="pt">Anal Na Banheira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713044200 -0300" stop="20190713061000 -0300" channel="Sextreme">
+    <title lang="pt">Aprendiz do Sexo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713061000 -0300" stop="20190713063100 -0300" channel="Sextreme">
+    <title lang="pt">Hoje Eu Quero Pau</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713063100 -0300" stop="20190713070000 -0300" channel="Sextreme">
+    <title lang="pt">Bem Comida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713070000 -0300" stop="20190713082600 -0300" channel="Sextreme">
+    <title lang="pt">Anal Para A Câmera 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713082600 -0300" stop="20190713095400 -0300" channel="Sextreme">
+    <title lang="pt">Arrombando a Chefe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713095400 -0300" stop="20190713112100 -0300" channel="Sextreme">
+    <title lang="pt">Massagem Clitoriana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713112100 -0300" stop="20190713124700 -0300" channel="Sextreme">
+    <title lang="pt">Rebolando No Pau</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713124700 -0300" stop="20190713141300 -0300" channel="Sextreme">
+    <title lang="pt">Dominadora De Pau</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713141300 -0300" stop="20190713154000 -0300" channel="Sextreme">
+    <title lang="pt">Prontos Para Um Trio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713154000 -0300" stop="20190713170800 -0300" channel="Sextreme">
+    <title lang="pt">Arrombando a Chefe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713170800 -0300" stop="20190713183500 -0300" channel="Sextreme">
+    <title lang="pt">Da Massagem à Orgia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713183500 -0300" stop="20190713195900 -0300" channel="Sextreme">
+    <title lang="pt">Caindo de Boca no Cacetete</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713195900 -0300" stop="20190713212600 -0300" channel="Sextreme">
+    <title lang="pt">Anal Para A Câmera 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713212600 -0300" stop="20190713225300 -0300" channel="Sextreme">
+    <title lang="pt">Milfs Fodem Gostoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713225300 -0300" stop="20190714002000 -0300" channel="Sextreme">
+    <title lang="pt">Dando o Cu Gostosinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714002000 -0300" stop="20190714014600 -0300" channel="Sextreme">
+    <title lang="pt">1 Pau Para 2 Milfs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714014600 -0300" stop="20190714030900 -0300" channel="Sextreme">
+    <title lang="pt">Metidinha Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714030900 -0300" stop="20190714043600 -0300" channel="Sextreme">
+    <title lang="pt">Milfs Fodem Gostoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714043600 -0300" stop="20190714060300 -0300" channel="Sextreme">
+    <title lang="pt">Dando o Cu Gostosinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714060300 -0300" stop="20190714062700 -0300" channel="Sextreme">
+    <title lang="pt">2 Varas na Minha Boca Milf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714062700 -0300" stop="20190714064800 -0300" channel="Sextreme">
+    <title lang="pt">Boquete no Mario Bros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714064800 -0300" stop="20190714070000 -0300" channel="Sextreme">
+    <title lang="pt">Bunda Bombástica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714070000 -0300" stop="20190714082900 -0300" channel="Sextreme">
+    <title lang="pt">Elas Se Penetram</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714082900 -0300" stop="20190714095700 -0300" channel="Sextreme">
+    <title lang="pt">Da Massagem à Orgia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714095700 -0300" stop="20190714112300 -0300" channel="Sextreme">
+    <title lang="pt">4 Morenas com Tesão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714112300 -0300" stop="20190714124700 -0300" channel="Sextreme">
+    <title lang="pt">Metidinha Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714124700 -0300" stop="20190714141300 -0300" channel="Sextreme">
+    <title lang="pt">Espanholas Dão Gostoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714141300 -0300" stop="20190714153600 -0300" channel="Sextreme">
+    <title lang="pt">Prender, Trepar e Gozar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714153600 -0300" stop="20190714170100 -0300" channel="Sextreme">
+    <title lang="pt">Anal Na Banheira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714170100 -0300" stop="20190714182800 -0300" channel="Sextreme">
+    <title lang="pt">Milfs Fodem Gostoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714182800 -0300" stop="20190714195700 -0300" channel="Sextreme">
+    <title lang="pt">Aprendiz do Sexo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714195700 -0300" stop="20190714212600 -0300" channel="Sextreme">
+    <title lang="pt">Elas Se Penetram</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714212600 -0300" stop="20190714225200 -0300" channel="Sextreme">
+    <title lang="pt">Gozando Sem Parar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714225200 -0300" stop="20190715001800 -0300" channel="Sextreme">
+    <title lang="pt">Viciado Em Peitões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712000200 -0300" stop="20190712012900 -0300" channel="Venus">
+    <title lang="pt">Noitada da Orgia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712012900 -0300" stop="20190712015100 -0300" channel="Venus">
+    <title lang="pt">1 Gostosinha Pra Mim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712015100 -0300" stop="20190712031600 -0300" channel="Venus">
+    <title lang="pt">Prazer Escorrendo Pelo Corpo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712031600 -0300" stop="20190712033500 -0300" channel="Venus">
+    <title lang="pt">Uma Amiga de Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712033500 -0300" stop="20190712050000 -0300" channel="Venus">
+    <title lang="pt">Dando o Cu com a Madrasta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712050000 -0300" stop="20190712062500 -0300" channel="Venus">
+    <title lang="pt">Escola de Ménage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712062500 -0300" stop="20190712063500 -0300" channel="Venus">
+    <title lang="pt">Festa Empresarial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712063500 -0300" stop="20190712080200 -0300" channel="Venus">
+    <title lang="pt">Milfs Lésbicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712080200 -0300" stop="20190712082500 -0300" channel="Venus">
+    <title lang="pt">1 Gostosinha Pra Mim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712082500 -0300" stop="20190712095100 -0300" channel="Venus">
+    <title lang="pt">Charme Intelectual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712095100 -0300" stop="20190712101000 -0300" channel="Venus">
+    <title lang="pt">Uma Amiga de Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712101000 -0300" stop="20190712113500 -0300" channel="Venus">
+    <title lang="pt">Lábios com Sabor de Mel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712113500 -0300" stop="20190712115200 -0300" channel="Venus">
+    <title lang="pt">Angel Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712115200 -0300" stop="20190712131800 -0300" channel="Venus">
+    <title lang="pt">Gozando Nas Latinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712131800 -0300" stop="20190712144100 -0300" channel="Venus">
+    <title lang="pt">Anal de Luxo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712144100 -0300" stop="20190712150300 -0300" channel="Venus">
+    <title lang="pt">Desejo: Anal Profundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712150300 -0300" stop="20190712162900 -0300" channel="Venus">
+    <title lang="pt">Ninfetas Afro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712162900 -0300" stop="20190712171800 -0300" channel="Venus">
+    <title lang="pt">Uma Bunda Com Volume</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712171800 -0300" stop="20190712183700 -0300" channel="Venus">
+    <title lang="pt">Viciado em Buraco Negro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712183700 -0300" stop="20190712190300 -0300" channel="Venus">
+    <title lang="pt">Laraxxxnja Mecânica A Paródia II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712190300 -0300" stop="20190712202700 -0300" channel="Venus">
+    <title lang="pt">Alunas Obedientes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712202700 -0300" stop="20190712204800 -0300" channel="Venus">
+    <title lang="pt">Se Tiver Que Montar, Monta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712204800 -0300" stop="20190712221300 -0300" channel="Venus">
+    <title lang="pt">Aquaorgasmo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712221300 -0300" stop="20190712222300 -0300" channel="Venus">
+    <title lang="pt">Meu Vizinho, Minha Babá e Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712222300 -0300" stop="20190712234900 -0300" channel="Venus">
+    <title lang="pt">Fã Clube do Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712234900 -0300" stop="20190713001100 -0300" channel="Venus">
+    <title lang="pt">Mexicana Safadinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713001100 -0300" stop="20190713013700 -0300" channel="Venus">
+    <title lang="pt">Madrasta Arrombada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713013700 -0300" stop="20190713014700 -0300" channel="Venus">
+    <title lang="pt">Festa Empresarial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713014700 -0300" stop="20190713031200 -0300" channel="Venus">
+    <title lang="pt">Orgia Pela Europa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713031200 -0300" stop="20190713033500 -0300" channel="Venus">
+    <title lang="pt">1 Gostosinha Pra Mim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713033500 -0300" stop="20190713050000 -0300" channel="Venus">
+    <title lang="pt">0800 Luxúria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713050000 -0300" stop="20190713062300 -0300" channel="Venus">
+    <title lang="pt">Anal de Luxo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713062300 -0300" stop="20190713064600 -0300" channel="Venus">
+    <title lang="pt">Me Come No Sofá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713064600 -0300" stop="20190713081200 -0300" channel="Venus">
+    <title lang="pt">Viciadas em Squirt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713081200 -0300" stop="20190713082200 -0300" channel="Venus">
+    <title lang="pt">Festa Empresarial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713082200 -0300" stop="20190713094600 -0300" channel="Venus">
+    <title lang="pt">Maduras Gulosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713094600 -0300" stop="20190713100900 -0300" channel="Venus">
+    <title lang="pt">1 Gostosinha Pra Mim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713100900 -0300" stop="20190713113500 -0300" channel="Venus">
+    <title lang="pt">No Sexo Vale Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713113500 -0300" stop="20190713120800 -0300" channel="Venus">
+    <title lang="pt">Confissiões Anais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713120800 -0300" stop="20190713133200 -0300" channel="Venus">
+    <title lang="pt">Aquaorgasmo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713133200 -0300" stop="20190713135100 -0300" channel="Venus">
+    <title lang="pt">Uma Amiga de Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713135100 -0300" stop="20190713151700 -0300" channel="Venus">
+    <title lang="pt">Fã Clube do Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713151700 -0300" stop="20190713164100 -0300" channel="Venus">
+    <title lang="pt">Sexo, Areia e Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713164100 -0300" stop="20190713165900 -0300" channel="Venus">
+    <title lang="pt">Angel Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713165900 -0300" stop="20190713182400 -0300" channel="Venus">
+    <title lang="pt">24h de Sexo no Hospital</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713182400 -0300" stop="20190713184600 -0300" channel="Venus">
+    <title lang="pt">Exame Físico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713184600 -0300" stop="20190713201200 -0300" channel="Venus">
+    <title lang="pt">Chupando No Bosque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713201200 -0300" stop="20190713203900 -0300" channel="Venus">
+    <title lang="pt">2 Enfermeiras do Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713203900 -0300" stop="20190713220400 -0300" channel="Venus">
+    <title lang="pt">Cosplay XXX</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713220400 -0300" stop="20190713223100 -0300" channel="Venus">
+    <title lang="pt">Laraxxxnja Mecânica A Paródia II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713223100 -0300" stop="20190714013300 -0300" channel="Venus">
+    <title lang="pt">Apocalypse Now: A Paródia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714013300 -0300" stop="20190714025800 -0300" channel="Venus">
+    <title lang="pt">Ménage Inter-racial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714025800 -0300" stop="20190714032100 -0300" channel="Venus">
+    <title lang="pt">Me Come No Sofá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714032100 -0300" stop="20190714044900 -0300" channel="Venus">
+    <title lang="pt">Viciada em DP</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714044900 -0300" stop="20190714050000 -0300" channel="Venus">
+    <title lang="pt">Festa Empresarial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714050000 -0300" stop="20190714062500 -0300" channel="Venus">
+    <title lang="pt">Fã Clube do Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714062500 -0300" stop="20190714065100 -0300" channel="Venus">
+    <title lang="pt">A Loba de Wall Strxxxt A Paródia III</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714065100 -0300" stop="20190714081000 -0300" channel="Venus">
+    <title lang="pt">Viciado em Buraco Negro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714081000 -0300" stop="20190714083300 -0300" channel="Venus">
+    <title lang="pt">Me Come No Sofá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714083300 -0300" stop="20190714095600 -0300" channel="Venus">
+    <title lang="pt">Alunas Obedientes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714095600 -0300" stop="20190714100600 -0300" channel="Venus">
+    <title lang="pt">Festa Empresarial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714100600 -0300" stop="20190714113200 -0300" channel="Venus">
+    <title lang="pt">Massageando Por Trás</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714113200 -0300" stop="20190714120300 -0300" channel="Venus">
+    <title lang="pt">1ª Vez na Câmera</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714120300 -0300" stop="20190714132900 -0300" channel="Venus">
+    <title lang="pt">Cosplay XXX</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714132900 -0300" stop="20190714135100 -0300" channel="Venus">
+    <title lang="pt">1 Gostosinha Pra Mim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714135100 -0300" stop="20190714165200 -0300" channel="Venus">
+    <title lang="pt">Apocalypse Now: A Paródia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714165200 -0300" stop="20190714171100 -0300" channel="Venus">
+    <title lang="pt">Uma Amiga de Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714171100 -0300" stop="20190714183900 -0300" channel="Venus">
+    <title lang="pt">Taxista Milf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714183900 -0300" stop="20190714191100 -0300" channel="Venus">
+    <title lang="pt">Confissiões Anais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714191100 -0300" stop="20190714203800 -0300" channel="Venus">
+    <title lang="pt">Noitada da Orgia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714203800 -0300" stop="20190714220400 -0300" channel="Venus">
+    <title lang="pt">Prazer Escorrendo Pelo Corpo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714220400 -0300" stop="20190714222100 -0300" channel="Venus">
+    <title lang="pt">Angel Anal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714222100 -0300" stop="20190714234700 -0300" channel="Venus">
+    <title lang="pt">Sexo Exxxtremo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714234700 -0300" stop="20190715000800 -0300" channel="Venus">
+    <title lang="pt">Desejo: Anal Profundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712003500 -0300" stop="20190712020000 -0300" channel="Sexy Hot">
+    <title lang="pt">Secretárias Pervertidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712020000 -0300" stop="20190712033000 -0300" channel="Sexy Hot">
+    <title lang="pt">Criando Pintos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712033000 -0300" stop="20190712040500 -0300" channel="Sexy Hot">
+    <title lang="pt">Turma do Sexo</title>
+    <sub-title lang="pt">Arrombando a Loira</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712040500 -0300" stop="20190712044000 -0300" channel="Sexy Hot">
+    <title lang="pt">Garotas da Van</title>
+    <sub-title lang="pt">Marcelo Rafael</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712044000 -0300" stop="20190712053000 -0300" channel="Sexy Hot">
+    <title lang="pt">Primeira vez a Três</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712053000 -0300" stop="20190712060000 -0300" channel="Sexy Hot">
+    <title lang="pt">Brinca Comigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712060000 -0300" stop="20190712073000 -0300" channel="Sexy Hot">
+    <title lang="pt">Show de Vizinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712073000 -0300" stop="20190712074500 -0300" channel="Sexy Hot">
+    <title lang="pt">Posições Sexuais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712074500 -0300" stop="20190712080000 -0300" channel="Sexy Hot">
+    <title lang="pt">Posições Sexuais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712080000 -0300" stop="20190712093000 -0300" channel="Sexy Hot">
+    <title lang="pt">Beleza Tropical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712093000 -0300" stop="20190712110000 -0300" channel="Sexy Hot">
+    <title lang="pt">Historinhas Para Adultos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712110000 -0300" stop="20190712123000 -0300" channel="Sexy Hot">
+    <title lang="pt">DP no Casório</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712123000 -0300" stop="20190712130000 -0300" channel="Sexy Hot">
+    <title lang="pt">Brinca Comigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712130000 -0300" stop="20190712144000 -0300" channel="Sexy Hot">
+    <title lang="pt">Molhadas e Sem Limites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712144000 -0300" stop="20190712160500 -0300" channel="Sexy Hot">
+    <title lang="pt">Melissa, Uma Coroa Devassa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712160500 -0300" stop="20190712180000 -0300" channel="Sexy Hot">
+    <title lang="pt">Entre Picas e Picanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712180000 -0300" stop="20190712181500 -0300" channel="Sexy Hot">
+    <title lang="pt">Posições Sexuais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712181500 -0300" stop="20190712183000 -0300" channel="Sexy Hot">
+    <title lang="pt">Posições Sexuais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712183000 -0300" stop="20190712201000 -0300" channel="Sexy Hot">
+    <title lang="pt">Masturbatrix 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712201000 -0300" stop="20190712215000 -0300" channel="Sexy Hot">
+    <title lang="pt">Reality XXX 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712215000 -0300" stop="20190712224500 -0300" channel="Sexy Hot">
+    <title lang="pt">Landlocked</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712224500 -0300" stop="20190713000000 -0300" channel="Sexy Hot">
+    <title lang="pt">Novatas Em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713000000 -0300" stop="20190713010500 -0300" channel="Sexy Hot">
+    <title lang="pt">Churrasco, Resenha e Swing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713010500 -0300" stop="20190713022500 -0300" channel="Sexy Hot">
+    <title lang="pt">Brad Caça Talentos 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713022500 -0300" stop="20190713033500 -0300" channel="Sexy Hot">
+    <title lang="pt">Detetive Atrevido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713033500 -0300" stop="20190713045000 -0300" channel="Sexy Hot">
+    <title lang="pt">Black Brothers e Bruninha Fitness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713045000 -0300" stop="20190713060500 -0300" channel="Sexy Hot">
+    <title lang="pt">Player</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713060500 -0300" stop="20190713073500 -0300" channel="Sexy Hot">
+    <title lang="pt">Intercâmbio Sexual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713073500 -0300" stop="20190713091500 -0300" channel="Sexy Hot">
+    <title lang="pt">Vênus em Glitter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713091500 -0300" stop="20190713102000 -0300" channel="Sexy Hot">
+    <title lang="pt">Churrasco, Resenha e Swing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713102000 -0300" stop="20190713114500 -0300" channel="Sexy Hot">
+    <title lang="pt">As Proibidas São as Mais Safadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713114500 -0300" stop="20190713131000 -0300" channel="Sexy Hot">
+    <title lang="pt">Preto no Branco Mistura Saborosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713131000 -0300" stop="20190713142500 -0300" channel="Sexy Hot">
+    <title lang="pt">Novatas Em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713142500 -0300" stop="20190713154500 -0300" channel="Sexy Hot">
+    <title lang="pt">Intensos Orgasmos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713154500 -0300" stop="20190713170500 -0300" channel="Sexy Hot">
+    <title lang="pt">Trato Fino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713170500 -0300" stop="20190713183000 -0300" channel="Sexy Hot">
+    <title lang="pt">Transas e Taras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713183000 -0300" stop="20190713195500 -0300" channel="Sexy Hot">
+    <title lang="pt">Massagem de Sacanagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713195500 -0300" stop="20190713212000 -0300" channel="Sexy Hot">
+    <title lang="pt">Loucos Por Pezinhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713212000 -0300" stop="20190713225000 -0300" channel="Sexy Hot">
+    <title lang="pt">True Detective: A Xxx Parody</title>
+    <sub-title lang="pt">Part 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713225000 -0300" stop="20190714000000 -0300" channel="Sexy Hot">
+    <title lang="pt">Detetive Atrevido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714000000 -0300" stop="20190714004000 -0300" channel="Sexy Hot">
+    <title lang="pt">Reparo Completo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714004000 -0300" stop="20190714013500 -0300" channel="Sexy Hot">
+    <title lang="pt">Amiguinha Curiosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714013500 -0300" stop="20190714030500 -0300" channel="Sexy Hot">
+    <title lang="pt">Vestidas Para Transar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714030500 -0300" stop="20190714043500 -0300" channel="Sexy Hot">
+    <title lang="pt">Trepadas na Borracharia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714043500 -0300" stop="20190714060000 -0300" channel="Sexy Hot">
+    <title lang="pt">Aninha Louca Por Cacetes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714060000 -0300" stop="20190714070000 -0300" channel="Sexy Hot">
+    <title lang="pt">Crossfiteira Danada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714070000 -0300" stop="20190714074000 -0300" channel="Sexy Hot">
+    <title lang="pt">Reparo Completo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714074000 -0300" stop="20190714090500 -0300" channel="Sexy Hot">
+    <title lang="pt">Elas Preferem Anal 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714090500 -0300" stop="20190714101500 -0300" channel="Sexy Hot">
+    <title lang="pt">Detetive Atrevido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714101500 -0300" stop="20190714114000 -0300" channel="Sexy Hot">
+    <title lang="pt">Reality Xxx 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714114000 -0300" stop="20190714122000 -0300" channel="Sexy Hot">
+    <title lang="pt">Garoto de Programa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714122000 -0300" stop="20190714134500 -0300" channel="Sexy Hot">
+    <title lang="pt">Pecadoras 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714134500 -0300" stop="20190714151000 -0300" channel="Sexy Hot">
+    <title lang="pt">Teu Rabo É Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714151000 -0300" stop="20190714163500 -0300" channel="Sexy Hot">
+    <title lang="pt">Taradas do Whatsapp 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714163500 -0300" stop="20190714180000 -0300" channel="Sexy Hot">
+    <title lang="pt">Delírios Pornográficos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714180000 -0300" stop="20190714192500 -0300" channel="Sexy Hot">
+    <title lang="pt">Traição Consentida: Aniversário de Casamento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714192500 -0300" stop="20190714201000 -0300" channel="Sexy Hot">
+    <title lang="pt">Mapa Sexual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714201000 -0300" stop="20190714210000 -0300" channel="Sexy Hot">
+    <title lang="pt">O Encontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714210000 -0300" stop="20190714215000 -0300" channel="Sexy Hot">
+    <title lang="pt">Boa de Copo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714215000 -0300" stop="20190714225500 -0300" channel="Sexy Hot">
+    <title lang="pt">Sem Controle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714225500 -0300" stop="20190715000000 -0300" channel="Sexy Hot">
+    <title lang="pt">Churrasco, Resenha e Swing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712000000 -0300" stop="20190712001500 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712001500 -0300" stop="20190712004500 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712004500 -0300" stop="20190712011500 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712011500 -0300" stop="20190712021500 -0300" channel="Record News">
+    <title lang="pt">Jr News</title>
+    <sub-title lang="pt">Heródoto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712021500 -0300" stop="20190712023000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712023000 -0300" stop="20190712030000 -0300" channel="Record News">
+    <title lang="pt">Eco Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712030000 -0300" stop="20190712040000 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712040000 -0300" stop="20190712050000 -0300" channel="Record News">
+    <title lang="pt">Link Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712050000 -0300" stop="20190712053000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712053000 -0300" stop="20190712063000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712063000 -0300" stop="20190712070000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712070000 -0300" stop="20190712071500 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712071500 -0300" stop="20190712073000 -0300" channel="Record News">
+    <title lang="pt">Eco Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712073000 -0300" stop="20190712081500 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712081500 -0300" stop="20190712083000 -0300" channel="Record News">
+    <title lang="pt">Inova 360</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712083000 -0300" stop="20190712100000 -0300" channel="Record News">
+    <title lang="pt">Alerta Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712100000 -0300" stop="20190712110000 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712110000 -0300" stop="20190712120000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712120000 -0300" stop="20190712123000 -0300" channel="Record News">
+    <title lang="pt">Mundo Meio-Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712123000 -0300" stop="20190712130000 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712130000 -0300" stop="20190712133000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712133000 -0300" stop="20190712140000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712140000 -0300" stop="20190712143000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712143000 -0300" stop="20190712150000 -0300" channel="Record News">
+    <title lang="pt">Escola do Amor Responde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712150000 -0300" stop="20190712163000 -0300" channel="Record News">
+    <title lang="pt">Balanço Geral</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712163000 -0300" stop="20190712174500 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712174500 -0300" stop="20190712180000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712180000 -0300" stop="20190712184500 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712184500 -0300" stop="20190712200000 -0300" channel="Record News">
+    <title lang="pt">Link Record News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712200000 -0300" stop="20190712203000 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712203000 -0300" stop="20190712210000 -0300" channel="Record News">
+    <title lang="pt">Eco Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712210000 -0300" stop="20190712220000 -0300" channel="Record News">
+    <title lang="pt">Jr News</title>
+    <sub-title lang="pt">Heródoto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712220000 -0300" stop="20190712223000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712223000 -0300" stop="20190712233000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190712233000 -0300" stop="20190713000000 -0300" channel="Record News">
+    <title lang="pt">Nação dos 318</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713000000 -0300" stop="20190713001500 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713001500 -0300" stop="20190713004500 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713004500 -0300" stop="20190713011500 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713011500 -0300" stop="20190713021500 -0300" channel="Record News">
+    <title lang="pt">Jr News</title>
+    <sub-title lang="pt">Heródoto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713021500 -0300" stop="20190713023000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713023000 -0300" stop="20190713030000 -0300" channel="Record News">
+    <title lang="pt">Eco Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713030000 -0300" stop="20190713040000 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713040000 -0300" stop="20190713050000 -0300" channel="Record News">
+    <title lang="pt">Link Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713050000 -0300" stop="20190713053000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713053000 -0300" stop="20190713063000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713063000 -0300" stop="20190713070000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713070000 -0300" stop="20190713080000 -0300" channel="Record News">
+    <title lang="pt">Jr News</title>
+    <sub-title lang="pt">Heródoto</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713080000 -0300" stop="20190713090000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713090000 -0300" stop="20190713100000 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713100000 -0300" stop="20190713123000 -0300" channel="Record News">
+    <title lang="pt">Fala Brasil Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713123000 -0300" stop="20190713133000 -0300" channel="Record News">
+    <title lang="pt">Ressoar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713133000 -0300" stop="20190713140000 -0300" channel="Record News">
+    <title lang="pt">Momento Moto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713140000 -0300" stop="20190713143000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713143000 -0300" stop="20190713150000 -0300" channel="Record News">
+    <title lang="pt">Programa do Templo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713150000 -0300" stop="20190713160000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713160000 -0300" stop="20190713170000 -0300" channel="Record News">
+    <title lang="pt">Esporte Fantástico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713170000 -0300" stop="20190713180000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713180000 -0300" stop="20190713190000 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713190000 -0300" stop="20190713193000 -0300" channel="Record News">
+    <title lang="pt">Conexão Flórida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713193000 -0300" stop="20190713203000 -0300" channel="Record News">
+    <title lang="pt">Repórter em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713203000 -0300" stop="20190713210000 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713210000 -0300" stop="20190713214500 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713214500 -0300" stop="20190713220000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713220000 -0300" stop="20190713223000 -0300" channel="Record News">
+    <title lang="pt">Estúdio News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713223000 -0300" stop="20190713230000 -0300" channel="Record News">
+    <title lang="pt">Link Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713230000 -0300" stop="20190713233000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190713233000 -0300" stop="20190714000000 -0300" channel="Record News">
+    <title lang="pt">Que Beleza!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714000000 -0300" stop="20190714003000 -0300" channel="Record News">
+    <title lang="pt">Nação dos 318</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714003000 -0300" stop="20190714004500 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714004500 -0300" stop="20190714013000 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714013000 -0300" stop="20190714024500 -0300" channel="Record News">
+    <title lang="pt">Esporte Fantástico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714024500 -0300" stop="20190714031500 -0300" channel="Record News">
+    <title lang="pt">Grandes Nomes da Propaganda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714031500 -0300" stop="20190714040000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714040000 -0300" stop="20190714044500 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714044500 -0300" stop="20190714050000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714050000 -0300" stop="20190714053000 -0300" channel="Record News">
+    <title lang="pt">Eco Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714053000 -0300" stop="20190714063000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714063000 -0300" stop="20190714070000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714070000 -0300" stop="20190714074500 -0300" channel="Record News">
+    <title lang="pt">Jornal da Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714074500 -0300" stop="20190714080000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714080000 -0300" stop="20190714083000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714083000 -0300" stop="20190714090000 -0300" channel="Record News">
+    <title lang="pt">Record News Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714090000 -0300" stop="20190714093000 -0300" channel="Record News">
+    <title lang="pt">Eco Record News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714093000 -0300" stop="20190714100000 -0300" channel="Record News">
+    <title lang="pt">Link Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714100000 -0300" stop="20190714103000 -0300" channel="Record News">
+    <title lang="pt">Momento Moto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714103000 -0300" stop="20190714113000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714113000 -0300" stop="20190714120000 -0300" channel="Record News">
+    <title lang="pt">RN Séries</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714120000 -0300" stop="20190714123000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714123000 -0300" stop="20190714133000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714133000 -0300" stop="20190714140000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714140000 -0300" stop="20190714143000 -0300" channel="Record News">
+    <title lang="pt">Nosso Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714143000 -0300" stop="20190714150000 -0300" channel="Record News">
+    <title lang="pt">Programa do Templo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714150000 -0300" stop="20190714160000 -0300" channel="Record News">
+    <title lang="pt">Hora News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714160000 -0300" stop="20190714163000 -0300" channel="Record News">
+    <title lang="pt">Conexão Flórida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714163000 -0300" stop="20190714173000 -0300" channel="Record News">
+    <title lang="pt">Ressoar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714173000 -0300" stop="20190714190000 -0300" channel="Record News">
+    <title lang="pt">Repórter Record Investigação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714190000 -0300" stop="20190714193000 -0300" channel="Record News">
+    <title lang="pt">Grandes Nomes da Propaganda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714193000 -0300" stop="20190714200000 -0300" channel="Record News">
+    <title lang="pt">Link Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714200000 -0300" stop="20190714203000 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714203000 -0300" stop="20190714213000 -0300" channel="Record News">
+    <title lang="pt">Câmera Record</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714213000 -0300" stop="20190714220000 -0300" channel="Record News">
+    <title lang="pt">Conexão Flórida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714220000 -0300" stop="20190714230000 -0300" channel="Record News">
+    <title lang="pt">Foco e Gestão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190714230000 -0300" stop="20190715023000 -0300" channel="Record News">
+    <title lang="pt">Domingo Espetacular</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
